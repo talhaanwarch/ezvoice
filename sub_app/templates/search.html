@@ -1,0 +1,18 @@
+{% extends 'base.html'%}
+
+{% block content %}
+<form method='POST' action ="{% url 'search' %}">
+{% csrf_token %}
+  <label for="search">Search:</label><br>
+  <input type="text" id="search" name="Search"><br>
+  <button type="submit" value='Submit'>Submit</button>	
+</form>
+
+Name   |   Email 
+<br>
+{% for q in print %}
+{{ q.name }}    | {{q.email}}
+<br>
+{% endfor %}
+
+{% endblock %}
