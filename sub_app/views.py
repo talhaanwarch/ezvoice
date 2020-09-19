@@ -42,7 +42,7 @@ def home(request):
 			else:
 				print('speak again')
 
-			return HttpResponseRedirect('/')
+		return render(request,'Search.html',{'text':tex})
 	else:
 		form = uploadForm()
 
@@ -55,7 +55,12 @@ def home(request):
 def search(request):
 	if request.method=='POST':
 		query=request.POST.get('Search')
-		data=Upload.objects.filter(name__icontains=query)
+		# data=Upload.objects.filter(name__icontains=query)
+		# data1=Text.objects.filter(upload_text__in=data)
+		#data=Upload.objects.filter(name__icontains=query).prefetch_related('text_set')
+		data=Text.objects.filter(upload_text__name__icontains=query)
+
+		print(data)
 		return render(request,'search.html',{'query_key':data})
 	else:
 		pass
