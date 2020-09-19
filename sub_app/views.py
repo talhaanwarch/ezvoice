@@ -42,7 +42,7 @@ def home(request):
 			else:
 				print('speak again')
 
-		return render(request,'Search.html',{'text':tex})
+		return render(request,'search.html',{'text':tex})
 	else:
 		form = uploadForm()
 
