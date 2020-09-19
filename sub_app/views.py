@@ -72,7 +72,7 @@ def upload_audio(request):
 		d=req.split(",")[1]
 		print("Yes, AJAX!")
 		#print(request.body)
-		f = open('./file.wav', 'wb')
+		f = open('./file.oga', 'wb')
 		
 		f.write(base64.b64decode(d))
 		#f.write(request.body)
