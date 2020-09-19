@@ -131,17 +131,18 @@ function uploadAudio( blob ) {
     var fd = {};
     fd["data"] = event.target.result;
     $.ajax({
+     // contentType:"application/x-www-form-urlencoded; charset=UTF-8",
       type: 'POST',
-      //contentType:"application/x-www-form-urlencoded; charset=UTF-8",
       url: 'testing/',
       data: fd,
       dataType: 'text'
     }).done(function(data) {
         console.log(data);
         document.getElementById("response").innerHTML=data;
-        alert(data);
+       // alert(data);
     });
   };
+  reader.readAsDataURL(blob);
 }
 function visualize(stream) {
   if(!audioCtx) {

@@ -1,7 +1,7 @@
 {% extends 'base.html' %}
 {% block content %}
 
-<h1>Hi</h1>
+<<!-- h1>Hi</h1>
 <div class='container'>
       <br><br>
    <form action="{% url 'home' %}" method="POST">
@@ -10,16 +10,10 @@
     <input type="text" id="fname" name="Name" value=""><br>
     <label for="email">Email:</label><br>
     <input type="email" id="email" name="email" value=""><br><br>
-    <input type="submit" value="Submit">
-  </form> 
-</div>
+    
+    <div class="wrapper">
 
-
-<div class="wrapper">
-
-      <header>
-        <h1>NLP Demo</h1>
-      </header>
+     
 
       <section class="main-controls">
         <canvas class="visualizer" height="60px"></canvas>
@@ -36,6 +30,40 @@
       <div ><h2 id="response"></h2></div>
     </div>
 
+
+
+
+    <input type="submit" value="Submit">
+  </form> 
+</div>
+
+ -->
+
+<form action="" method="post" enctype="multipart/form-data"> 
+    {% csrf_token %}
+    {{ load.as_p }}
+    <div class="wrapper">
+
+     
+
+      <section class="main-controls">
+        <canvas class="visualizer" height="60px"></canvas>
+        <div id="buttons">
+          <button class="record">Record</button>
+          <button class="stop">Stop</button>
+        </div>
+      </section>
+
+      <section class="sound-clips">
+
+
+      </section>
+      <div ><h2 id="response"></h2></div>
+    </div>
+
+    
+    <input type="submit" value="Submit">
+</form>
 
 
 
