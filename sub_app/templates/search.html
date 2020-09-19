@@ -14,8 +14,10 @@
 
 Name   |   Email 
 <br>
-{% for upload in query_key %}
-{{ upload.upload_text.name }}    | {{upload.upload_text.email}} | {{ upload.texts }}
+{% for upload in query_key %} 
+{% if upload %}
+{{ upload.upload_text.name }} &nbsp &nbsp &nbsp &nbsp   &nbsp &nbsp {{upload.upload_text.email}}  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp   {{ upload.texts }}
+{% endif %}
 <br>
 {% endfor %}
 
