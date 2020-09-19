@@ -9,9 +9,12 @@ from .forms import uploadForm
 def text():
 	#AudioSegment.converter = r"C:/ffmpeg/bin/ffmpeg.exe"
 	#AudioSegment.ffprobe   = r"C:/ffmpeg/bin/ffprobe.exe"
+	print('file.oga loaded')
 	sound = AudioSegment.from_file("file.oga")
-	sound.export("file.wav", format="wav")
-	tex=sr.takeCommand('file.wav')
+	print('file.oga loaded 1')
+	sound.export("filew.wav", format="wav")
+	print('pydub exported')
+	tex=sr.takeCommand('filew.wav')
 	print(tex)
 	return tex
 
