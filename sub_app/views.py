@@ -4,6 +4,7 @@ import base64
 from django.http import HttpResponse,HttpResponseRedirect
 from .py_templates import sr
 from pydub import AudioSegment
+from django.contrib import messages
 # Create your views here.
 from .forms import uploadForm
 def text():
@@ -18,19 +19,6 @@ def text():
 	print(tex)
 	return tex
 
-# def home(request):
-# 	if request.method=='POST':
-# 		name=request.POST['Name'] #here Name is from form name
-# 		email=request.POST['email']#here email is from form email name
-# 		submit =Upload(name=name,email=email)
-# 		submit.save()
-# 		#tex=text()
-# 		print('print',name)
-# 		#insert = Text.objects.create(texts=tex)
-# 	else:
-# 		pass
-# 		print('no post')
-# 	return render(request,template_name='home.html',context={'print':'ok'})
 
 def home(request):
 	if request.method == 'POST':
@@ -42,10 +30,13 @@ def home(request):
 			
 				print(tex)
 				insert = Text.objects.create(texts=tex,upload_text=Upload.objects.last())
-			else:
-				print('speak again')
+			
 
-		return render(request,'search.html',{'text':tex})
+				return render(request,'search.html',{'text':tex})
+				#messages.success(request,'voice saved')
+			else:
+
+				return render(request,'search.html',{'text':'Please speak again'})
 	else:
 		form = uploadForm()
 

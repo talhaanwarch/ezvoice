@@ -47,7 +47,7 @@ if (navigator.mediaDevices.getUserMedia) {
       // mediaRecorder.requestData();
 
       stop.disabled = true;
-      record.disabled = true;
+      record.disabled = false;
     }
 
       mediaRecorder.onstop = function(e) {
