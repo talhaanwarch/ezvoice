@@ -7,29 +7,30 @@ from pydub import AudioSegment
 from django.contrib import messages
 # Create your views here.
 from .forms import uploadForm
-def text():
+import datetime
+
+def text(lang):
 	#AudioSegment.converter = r"C:/ffmpeg/bin/ffmpeg.exe"
 	#AudioSegment.ffprobe   = r"C:/ffmpeg/bin/ffprobe.exe"
-	print('file.oga loaded')
 	sound = AudioSegment.from_file("file.oga")
-	print('file.oga loaded 1')
-	sound.export("filew.wav", format="wav")
-	print('pydub exported')
-	tex=sr.takeCommand('filew.wav')
-	print(tex)
-	return tex
+	suffix = datetime.datetime.now().strftime("%y%m%d_%H%M%S")
+	filename = "_".join([lang, suffix]) 
+	filename='{}.wav'.format(filename)
+	sound.export(filename, format="wav")
+	tex=sr.takeCommand(filename,lang)
+	return tex,filename
 
 
 def home(request):
 	if request.method == 'POST':
 		form = uploadForm(request.POST)
+		lang=request.POST['language']
 		if form.is_valid():
-			tex=text()
+			tex,filename=text(lang)
 			if tex is not None:
 				form.save()
 			
-				print(tex)
-				insert = Text.objects.create(texts=tex,upload_text=Upload.objects.last())
+				insert = Text.objects.create(texts=tex,filename=filename,upload_text=Upload.objects.last())
 			
 
 				return render(request,'search.html',{'text':tex})
@@ -54,7 +55,6 @@ def search(request):
 		#data=Upload.objects.filter(name__icontains=query).prefetch_related('text_set')
 		data=Text.objects.filter(upload_text__name__icontains=query)
 
-		print(data)
 		return render(request,'search.html',{'query_key':data})
 	else:
 		pass
