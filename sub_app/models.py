@@ -12,7 +12,7 @@ class Upload(models.Model):
 	#pid=models.AutoField(primary_key=True)
 	name=models.CharField(max_length=100)
 	email=models.EmailField(max_length=50)
-	language=models.CharField(max_length=15, choices=MY_CHOICES,default=MY_CHOICES[0][0])
+	language=models.CharField(max_length=15, choices=MY_CHOICES, blank=True, null=True,default=MY_CHOICES[0][0])
 
 	def __str__(self):
 		return self.name
