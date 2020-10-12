@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'pfbep4fb#y$&(xga2^u7%qf38tn7&)1ncz#e+o#xyo8e^w-0ic'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['*']
 
@@ -82,8 +82,7 @@ DATABASES = {
      }
  }
 import dj_database_url   
-DATABASES['default'] = dj_database_url.config(conn_max_age=600)
-#DATABASES = { 'default': dj_database_url.config(conn_max_age=500) }
+#DATABASES['default'] = dj_database_url.config(conn_max_age=600)
 
 
 
@@ -119,6 +118,7 @@ USE_L10N = True
 
 USE_TZ = True
 
+DEBUG_PROPAGATE_EXCEPTIONS = True
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/3.1/howto/static-files/
@@ -130,5 +130,5 @@ MEDIA_URL = '/media/'
 STATIC_URL = '/static/'  
 STATIC_ROOT = os.path.join(BASE_DIR, 'sub_app','static')
 
-STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
-#STATICFILES_STORAGE = 'whitenoise.storage.CompressedStaticFilesStorage'
+#STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
+STATICFILES_STORAGE = 'whitenoise.storage.CompressedStaticFilesStorage'
