@@ -3,16 +3,19 @@
 {% block content %}
 <h2>Display result</h2>
 {{ text }}
-
-<h2> Search Result</h2>
+<br>
+<form action="https://ezvoice.herokuapp.com/">
+    <input type="submit" value="Go back" />
+</form>
+<!-- <h2> Search Result</h2>
 <form method='POST' action ="{% url 'search' %}">
 {% csrf_token %}
   <label for="search">Search:</label><br>
   <input type="text" id="search" name="Search"><br>
   <button type="submit" value='Submit'>Submit</button>	
 </form>
-
-Name   |   Email 
+ -->
+<!-- Name   |   Email 
 <br>
 {% for upload in query_key %} 
 {% if upload %}
@@ -20,5 +23,5 @@ Name   |   Email
 {% endif %}
 <br>
 {% endfor %}
-
+ -->
 {% endblock %}
