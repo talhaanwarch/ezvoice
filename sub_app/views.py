@@ -2,7 +2,7 @@ from django.shortcuts import render
 from .models import *
 import base64
 from django.http import HttpResponse,HttpResponseRedirect
-from .py_templates import sr
+from .py_templates import sr,symptom_finder
 from pydub import AudioSegment
 from django.contrib import messages
 # Create your views here.
@@ -32,8 +32,9 @@ def home(request):
 			
 				insert = Text.objects.create(texts=tex,filename=filename,upload_text=Upload.objects.last())
 			
-
-				return render(request,'search.html',{'text':tex})
+				symp=symptom_finder.symp_finder(tex)
+				print('symptoms are ', symp)
+				return render(request,'search.html',{'text':tex,'doctor':symp})
 				#messages.success(request,'voice saved')
 			else:
 

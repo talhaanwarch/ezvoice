@@ -2,9 +2,14 @@
 
 {% block content %}
 <h2>Display result</h2>
-{{ text }}
+{{ text }} <br>
+You may have following disease <br>
+{% for t in doctor %}
+{{ t }} <br>
+{% endfor %}
+
 <br>
-<form action="https://ezvoice.herokuapp.com/">
+<form action="/">
     <input type="submit" value="Go back" />
 </form>
 <!-- <h2> Search Result</h2>
