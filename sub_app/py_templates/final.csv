@@ -1,0 +1,1634 @@
+Disease,doctor,Symptoms
+hypertensive disease,cardiologists,pain chest
+hypertensive disease,cardiologists,shortness of breath
+hypertensive disease,cardiologists,dizziness
+hypertensive disease,cardiologists,asthenia
+hypertensive disease,cardiologists,fall
+hypertensive disease,cardiologists,syncope
+hypertensive disease,cardiologists,vertigo
+hypertensive disease,cardiologists,sweat sweating increased
+hypertensive disease,cardiologists,palpitation
+hypertensive disease,cardiologists,nausea
+hypertensive disease,cardiologists,angina pectoris
+hypertensive disease,cardiologists,pressure chest
+diabetes,endocrinologists ,polyuria
+diabetes,endocrinologists ,polydypsia
+diabetes,endocrinologists ,shortness of breath
+diabetes,endocrinologists ,pain chest
+diabetes,endocrinologists ,asthenia
+diabetes,endocrinologists ,nausea
+diabetes,endocrinologists ,orthopnea
+diabetes,endocrinologists ,rale
+diabetes,endocrinologists ,sweat sweating increased
+diabetes,endocrinologists ,unresponsiveness
+diabetes,endocrinologists ,mental status changes
+diabetes,endocrinologists ,vertigo
+diabetes,endocrinologists ,vomiting
+diabetes,endocrinologists ,labored breathing
+depression mental depressive disorder,psychiatrist,feeling suicidal
+depression mental depressive disorder,psychiatrist,suicidal
+depression mental depressive disorder,psychiatrist,hallucinations auditory
+depression mental depressive disorder,psychiatrist,feeling hopeless
+depression mental depressive disorder,psychiatrist,weepiness
+depression mental depressive disorder,psychiatrist,sleeplessness
+depression mental depressive disorder,psychiatrist,motor retardation
+depression mental depressive disorder,psychiatrist,irritable mood
+depression mental depressive disorder,psychiatrist,blackout
+depression mental depressive disorder,psychiatrist,mood depressed
+depression mental depressive disorder,psychiatrist,hallucinations visual
+depression mental depressive disorder,psychiatrist,worry
+depression mental depressive disorder,psychiatrist,agitation
+depression mental depressive disorder,psychiatrist,tremor
+depression mental depressive disorder,psychiatrist,intoxication
+depression mental depressive disorder,psychiatrist,verbal auditory hallucinations
+depression mental depressive disorder,psychiatrist,energy increased
+depression mental depressive disorder,psychiatrist,difficulty
+depression mental depressive disorder,psychiatrist,nightmare
+depression mental depressive disorder,psychiatrist,unable to concentrate
+depression mental depressive disorder,psychiatrist,homelessness
+coronary arteriosclerosis coronary heart disease,cardiologists,pain chest
+coronary arteriosclerosis coronary heart disease,cardiologists,angina pectoris
+coronary arteriosclerosis coronary heart disease,cardiologists,shortness of breath
+coronary arteriosclerosis coronary heart disease,cardiologists,hypokinesia
+coronary arteriosclerosis coronary heart disease,cardiologists,sweat sweating increased
+coronary arteriosclerosis coronary heart disease,cardiologists,pressure chest
+coronary arteriosclerosis coronary heart disease,cardiologists,dyspnea on exertion
+coronary arteriosclerosis coronary heart disease,cardiologists,orthopnea
+coronary arteriosclerosis coronary heart disease,cardiologists,chest tightness
+pneumonia,pulmonologist,cough
+pneumonia,pulmonologist,fever
+pneumonia,pulmonologist,decreased translucency
+pneumonia,pulmonologist,shortness of breath
+pneumonia,pulmonologist,rale
+pneumonia,pulmonologist,productive cough
+pneumonia,pulmonologist,pleuritic pain
+pneumonia,pulmonologist,yellow sputum
+pneumonia,pulmonologist,breath sounds decreased
+pneumonia,pulmonologist,chill
+pneumonia,pulmonologist,rhonchus
+pneumonia,pulmonologist,green sputum
+pneumonia,pulmonologist,non-productive cough
+pneumonia,pulmonologist,wheezing
+pneumonia,pulmonologist,haemoptysis
+pneumonia,pulmonologist,distress respiratory
+pneumonia,pulmonologist,tachypnea
+pneumonia,pulmonologist,malaise
+pneumonia,pulmonologist,night sweat
+failure heart congestive,cardiologists,shortness of breath
+failure heart congestive,cardiologists,orthopnea
+failure heart congestive,cardiologists,jugular venous distention
+failure heart congestive,cardiologists,rale
+failure heart congestive,cardiologists,dyspnea
+failure heart congestive,cardiologists,cough
+failure heart congestive,cardiologists,wheezing
+accident cerebrovascular,Neurologist ,dysarthria
+accident cerebrovascular,Neurologist ,asthenia
+accident cerebrovascular,Neurologist ,speech slurred
+accident cerebrovascular,Neurologist ,facial paresis
+accident cerebrovascular,Neurologist ,hemiplegia
+accident cerebrovascular,Neurologist ,unresponsiveness
+accident cerebrovascular,Neurologist ,seizure
+accident cerebrovascular,Neurologist ,numbness
+asthma,Allergist ,wheezing
+asthma,Allergist ,cough
+asthma,Allergist ,shortness of breath
+asthma,Allergist ,chest tightness
+asthma,Allergist ,non-productive cough
+asthma,Allergist ,pleuritic pain
+asthma,Allergist ,productive cough
+asthma,Allergist ,symptom aggravating factors
+asthma,Allergist ,distress respiratory
+myocardial infarction,cardiologists,pain chest
+myocardial infarction,cardiologists,st segment elevation
+myocardial infarction,cardiologists,sweat sweating increased
+myocardial infarction,cardiologists,shortness of breath
+myocardial infarction,cardiologists,st segment depression
+myocardial infarction,cardiologists,hypokinesia
+myocardial infarction,cardiologists,angina pectoris
+myocardial infarction,cardiologists,pressure chest
+myocardial infarction,cardiologists,t wave inverted
+myocardial infarction,cardiologists,orthopnea
+myocardial infarction,cardiologists,rale
+myocardial infarction,cardiologists,chest tightness
+myocardial infarction,cardiologists,presence of q wave
+myocardial infarction,cardiologists,palpitation
+myocardial infarction,cardiologists,dyspnea
+myocardial infarction,cardiologists,chest discomfort
+myocardial infarction,cardiologists,bradycardia
+myocardial infarction,cardiologists,syncope
+hypercholesterolemia,physician,pain
+hypercholesterolemia,physician,pain chest
+hypercholesterolemia,physician,sweat sweating increased
+hypercholesterolemia,physician,nonsmoker
+hypercholesterolemia,physician,pressure chest
+hypercholesterolemia,physician,syncope
+hypercholesterolemia,physician,numbness
+hypercholesterolemia,physician,chest discomfort
+hypercholesterolemia,physician,shortness of breath
+hypercholesterolemia,physician,st segment depression
+hypercholesterolemia,physician,worry
+hypercholesterolemia,physician,t wave inverted
+hypercholesterolemia,physician,bradycardia
+hypercholesterolemia,physician,dyspnea
+infection,physician,fever
+infection,physician,erythema
+infection,physician,decreased translucency
+infection,physician,hepatosplenomegaly
+infection,physician,chill
+infection,physician,pruritus
+infection,physician,diarrhea
+infection,physician,abscess bacterial
+infection,physician,swelling
+infection,physician,pain
+infection,physician,apyrexial
+infection,physician,cough
+infection urinary tract,urologist,fever
+infection urinary tract,urologist,dysuria
+infection urinary tract,urologist,hematuria
+infection urinary tract,urologist,renal angle tenderness
+infection urinary tract,urologist,lethargy
+infection urinary tract,urologist,asthenia
+infection urinary tract,urologist,hyponatremia
+infection urinary tract,urologist,hemodynamically stable
+infection urinary tract,urologist,distress respiratory
+infection urinary tract,urologist,difficulty passing urine
+infection urinary tract,urologist,mental status changes
+infection urinary tract,urologist,consciousness clear
+anemia,hematologist,chill
+anemia,hematologist,guaiac positive
+anemia,hematologist,monoclonal
+anemia,hematologist,ecchymosis
+anemia,hematologist,tumor cell invasion
+anemia,hematologist,haemorrhage
+anemia,hematologist,pallor
+anemia,hematologist,asthenia
+anemia,hematologist,fatigue
+anemia,hematologist,heme positive
+anemia,hematologist,pain back
+anemia,hematologist,orthostasis
+anemia,hematologist,hyponatremia
+anemia,hematologist,dizziness
+anemia,hematologist,shortness of breath
+anemia,hematologist,pain
+anemia,hematologist,rhonchus
+anemia,hematologist,arthralgia
+anemia,hematologist,swelling
+anemia,hematologist,transaminitis
+chronic obstructive airway disease,pulmonologist,shortness of breath
+chronic obstructive airway disease,pulmonologist,wheezing
+chronic obstructive airway disease,pulmonologist,cough
+chronic obstructive airway disease,pulmonologist,dyspnea
+chronic obstructive airway disease,pulmonologist,distress respiratory
+chronic obstructive airway disease,pulmonologist,sputum purulent
+chronic obstructive airway disease,pulmonologist,hypoxemia
+chronic obstructive airway disease,pulmonologist,hypercapnia
+chronic obstructive airway disease,pulmonologist,patient non compliance
+chronic obstructive airway disease,pulmonologist,chest tightness
+dementia,Neurologist ,fever
+dementia,Neurologist ,fall
+dementia,Neurologist ,unresponsiveness
+dementia,Neurologist ,lethargy
+dementia,Neurologist ,agitation
+dementia,Neurologist ,ecchymosis
+dementia,Neurologist ,syncope
+dementia,Neurologist ,rale
+dementia,Neurologist ,unconscious state
+dementia,Neurologist ,cough
+dementia,Neurologist ,bedridden bedridden
+dementia,Neurologist ,pain
+dementia,Neurologist ,facial paresis
+dementia,Neurologist ,abdominal tenderness
+dementia,Neurologist ,rhonchus
+dementia,Neurologist ,unsteady gait
+dementia,Neurologist ,hallucinations auditory
+insufficiency renal,Nephrologists ,shortness of breath
+insufficiency renal,Nephrologists ,hyperkalemia
+insufficiency renal,Nephrologists ,orthopnea
+insufficiency renal,Nephrologists ,rale
+insufficiency renal,Nephrologists ,urgency of micturition
+insufficiency renal,Nephrologists ,ascites
+insufficiency renal,Nephrologists ,guaiac positive
+insufficiency renal,Nephrologists ,asthenia
+insufficiency renal,Nephrologists ,apyrexial
+insufficiency renal,Nephrologists ,mental status changes
+insufficiency renal,Nephrologists ,dyspnea
+insufficiency renal,Nephrologists ,difficulty
+insufficiency renal,Nephrologists ,diarrhea
+insufficiency renal,Nephrologists ,hypotension
+insufficiency renal,Nephrologists ,breath sounds decreased
+insufficiency renal,Nephrologists ,swelling
+insufficiency renal,Nephrologists ,hypokinesia
+confusion,psychiatrist,seizure
+confusion,psychiatrist,enuresis
+confusion,psychiatrist,lethargy
+confusion,psychiatrist,speech slurred
+confusion,psychiatrist,fall
+confusion,psychiatrist,consciousness clear
+confusion,psychiatrist,mental status changes
+confusion,psychiatrist,asterixis
+confusion,psychiatrist,unconscious state
+confusion,psychiatrist,agitation
+confusion,psychiatrist,muscle twitch
+confusion,psychiatrist,asthenia
+confusion,psychiatrist,sleepy
+confusion,psychiatrist,dizziness
+confusion,psychiatrist,headache
+confusion,psychiatrist,dysarthria
+confusion,psychiatrist,lightheadedness
+confusion,psychiatrist,tremor
+confusion,psychiatrist,hyponatremia
+confusion,psychiatrist,unresponsiveness
+degenerative polyarthritis,Rheumatologists ,pain
+degenerative polyarthritis,Rheumatologists ,food intolerance
+degenerative polyarthritis,Rheumatologists ,numbness of hand
+degenerative polyarthritis,Rheumatologists ,general discomfort
+degenerative polyarthritis,Rheumatologists ,drowsiness
+degenerative polyarthritis,Rheumatologists ,asthenia
+degenerative polyarthritis,Rheumatologists ,nonsmoker
+degenerative polyarthritis,Rheumatologists ,non-productive cough
+degenerative polyarthritis,Rheumatologists ,polydypsia
+degenerative polyarthritis,Rheumatologists ,stiffness
+degenerative polyarthritis,Rheumatologists ,unsteady gait
+hypothyroidism,endocrinologist,shortness of breath
+hypothyroidism,endocrinologist,prostatism
+hypothyroidism,endocrinologist,drowsiness sleepy
+hypothyroidism,endocrinologist,hyponatremia
+hypothyroidism,endocrinologist,fall
+hypothyroidism,endocrinologist,unsteady gait
+hypothyroidism,endocrinologist,polyuria
+hypothyroidism,endocrinologist,hypotension
+hypothyroidism,endocrinologist,difficulty
+hypothyroidism,endocrinologist,syncope
+hypothyroidism,endocrinologist,nightmare
+hypothyroidism,endocrinologist,speech slurred
+hypothyroidism,endocrinologist,weight gain
+hypothyroidism,endocrinologist,asthenia
+hypothyroidism,endocrinologist,fatigue tired
+hypothyroidism,endocrinologist,agitation
+hypothyroidism,endocrinologist,mental status changes
+hypothyroidism,endocrinologist,motor retardation
+hypothyroidism,endocrinologist,vomiting
+hypothyroidism,endocrinologist,numbness
+hypothyroidism,endocrinologist,mass of body structure
+anxiety state,psychiatrist,worry
+anxiety state,psychiatrist,feeling suicidal
+anxiety state,psychiatrist,suicidal
+anxiety state,psychiatrist,sleeplessness
+anxiety state,psychiatrist,feeling hopeless
+anxiety state,psychiatrist,irritable mood
+anxiety state,psychiatrist,tremor
+anxiety state,psychiatrist,blackout
+anxiety state,psychiatrist,weepiness
+anxiety state,psychiatrist,has religious belief
+anxiety state,psychiatrist,nervousness
+anxiety state,psychiatrist,hallucinations visual
+anxiety state,psychiatrist,formication
+anxiety state,psychiatrist,difficulty
+anxiety state,psychiatrist,pain chest
+anxiety state,psychiatrist,patient non compliance
+anxiety state,psychiatrist,agitation
+anxiety state,psychiatrist,palpitation
+anxiety state,psychiatrist,hallucinations auditory
+anxiety state,psychiatrist,mood depressed
+anxiety state,psychiatrist,hot flush
+anxiety state,psychiatrist,pain
+anxiety state,psychiatrist,consciousness clear
+anxiety state,psychiatrist,nightmare
+malignant neoplasms primary malignant neoplasm,oncologist ,pain
+malignant neoplasms primary malignant neoplasm,oncologist ,mass of body structure
+malignant neoplasms primary malignant neoplasm,oncologist ,lesion
+malignant neoplasms primary malignant neoplasm,oncologist ,cushingoid facies cushingoid habitus
+malignant neoplasms primary malignant neoplasm,oncologist ,emphysematous change
+malignant neoplasms primary malignant neoplasm,oncologist ,decreased body weight
+malignant neoplasms primary malignant neoplasm,oncologist ,ascites
+malignant neoplasms primary malignant neoplasm,oncologist ,hoarseness
+malignant neoplasms primary malignant neoplasm,oncologist ,thicken
+malignant neoplasms primary malignant neoplasm,oncologist ,hematuria
+cellulitis,dermatologist,erythema
+cellulitis,dermatologist,pain
+cellulitis,dermatologist,swelling
+cellulitis,dermatologist,redness
+cellulitis,dermatologist,fever
+cellulitis,dermatologist,abscess bacterial
+cellulitis,dermatologist,patient non compliance
+cellulitis,dermatologist,hypesthesia
+cellulitis,dermatologist,hyperacusis
+cellulitis,dermatologist,pruritus
+cellulitis,dermatologist,pain chest
+cellulitis,dermatologist,scratch marks
+cellulitis,dermatologist,chill
+cellulitis,dermatologist,sore to touch
+gastroesophageal reflux disease,gastroenterologist,pain
+gastroesophageal reflux disease,gastroenterologist,pain chest
+gastroesophageal reflux disease,gastroenterologist,burning sensation
+gastroesophageal reflux disease,gastroenterologist,hyponatremia
+gastroesophageal reflux disease,gastroenterologist,satiety early
+gastroesophageal reflux disease,gastroenterologist,throbbing sensation quality
+gastroesophageal reflux disease,gastroenterologist,chest tightness
+gastroesophageal reflux disease,gastroenterologist,sensory discomfort
+gastroesophageal reflux disease,gastroenterologist,presence of q wave
+gastroesophageal reflux disease,gastroenterologist,nausea
+gastroesophageal reflux disease,gastroenterologist,general discomfort
+gastroesophageal reflux disease,gastroenterologist,constipation
+gastroesophageal reflux disease,gastroenterologist,palpitation
+gastroesophageal reflux disease,gastroenterologist,pain abdominal
+gastroesophageal reflux disease,gastroenterologist,heartburn
+gastroesophageal reflux disease,gastroenterologist,sweat sweating increased
+gastroesophageal reflux disease,gastroenterologist,asthenia
+deep vein thrombosis,hematologist,swelling
+deep vein thrombosis,hematologist,pain
+deep vein thrombosis,hematologist,ecchymosis
+deep vein thrombosis,hematologist,shortness of breath
+deep vein thrombosis,hematologist,pain in lower limb
+deep vein thrombosis,hematologist,cardiomegaly
+deep vein thrombosis,hematologist,rale
+deep vein thrombosis,hematologist,erythema
+deep vein thrombosis,hematologist,hypotension
+deep vein thrombosis,hematologist,clonus
+deep vein thrombosis,hematologist,non-productive cough
+deep vein thrombosis,hematologist,redness
+dehydration,physician,fever
+dehydration,physician,diarrhea
+dehydration,physician,vomiting
+dehydration,physician,hypotension
+dehydration,physician,nausea
+dehydration,physician,lightheadedness
+dehydration,physician,unwell
+dehydration,physician,mental status changes
+dehydration,physician,anorexia
+dehydration,physician,asthenia
+dehydration,physician,sensory discomfort
+dehydration,physician,syncope
+dehydration,physician,lethargy
+dehydration,physician,dizziness
+dehydration,physician,syncope history of - blackout
+neoplasm,oncologist ,mass of body structure
+neoplasm,oncologist ,lesion
+neoplasm,oncologist ,pain chest
+neoplasm,oncologist ,hematuria
+neoplasm,oncologist ,tumor cell invasion
+neoplasm,oncologist ,pain
+neoplasm,oncologist ,anosmia
+neoplasm,oncologist ,thicken
+neoplasm,oncologist ,metastatic lesion
+neoplasm,oncologist ,food intolerance
+neoplasm,oncologist ,decreased body weight
+neoplasm,oncologist ,night sweat
+neoplasm,oncologist ,hemianopsia homonymous
+neoplasm,oncologist ,satiety early
+neoplasm,oncologist ,pain abdominal
+neoplasm,oncologist ,headache
+embolism pulmonary,pulmonologist,shortness of breath
+embolism pulmonary,pulmonologist,hypoxemia
+embolism pulmonary,pulmonologist,tachypnea
+embolism pulmonary,pulmonologist,hematocrit decreased
+embolism pulmonary,pulmonologist,pain chest
+embolism pulmonary,pulmonologist,dyspnea
+embolism pulmonary,pulmonologist,pleuritic pain
+embolism pulmonary,pulmonologist,neck stiffness
+embolism pulmonary,pulmonologist,yellow sputum
+embolism pulmonary,pulmonologist,productive cough
+embolism pulmonary,pulmonologist,cicatrisation
+embolism pulmonary,pulmonologist,unresponsiveness
+embolism pulmonary,pulmonologist,distress respiratory
+embolism pulmonary,pulmonologist,wheezing
+embolism pulmonary,pulmonologist,apyrexial
+embolism pulmonary,pulmonologist,non-productive cough
+epilepsy,neurologist,seizure
+epilepsy,neurologist,hypometabolism
+epilepsy,neurologist,aura
+epilepsy,neurologist,muscle twitch
+epilepsy,neurologist,drowsiness
+epilepsy,neurologist,tremor
+epilepsy,neurologist,unresponsiveness
+epilepsy,neurologist,hemiplegia
+epilepsy,neurologist,myoclonus
+epilepsy,neurologist,gurgle
+epilepsy,neurologist,sleepy
+epilepsy,neurologist,lethargy
+epilepsy,neurologist,wheelchair bound
+cardiomyopathy,cardiologists,shortness of breath
+cardiomyopathy,cardiologists,orthopnea
+cardiomyopathy,cardiologists,hypokinesia
+cardiomyopathy,cardiologists,jugular venous distention
+cardiomyopathy,cardiologists,palpitation
+cardiomyopathy,cardiologists,pain chest
+cardiomyopathy,cardiologists,syncope
+cardiomyopathy,cardiologists,yellow sputum
+cardiomyopathy,cardiologists,rale
+cardiomyopathy,cardiologists,dyspnea
+cardiomyopathy,cardiologists,dyspnea on exertion
+cardiomyopathy,cardiologists,left atrial hypertrophy
+cardiomyopathy,cardiologists,fatigue
+cardiomyopathy,cardiologists,weight gain
+cardiomyopathy,cardiologists,patient non compliance
+chronic kidney failure,Nephrologists ,vomiting
+chronic kidney failure,Nephrologists ,orthopnea
+chronic kidney failure,Nephrologists ,hyperkalemia
+chronic kidney failure,Nephrologists ,oliguria
+chronic kidney failure,Nephrologists ,jugular venous distention
+chronic kidney failure,Nephrologists ,nausea
+chronic kidney failure,Nephrologists ,shortness of breath
+chronic kidney failure,Nephrologists ,mental status changes
+chronic kidney failure,Nephrologists ,diarrhea
+chronic kidney failure,Nephrologists ,asthenia
+chronic kidney failure,Nephrologists ,chest tightness
+chronic kidney failure,Nephrologists ,malaise
+chronic kidney failure,Nephrologists ,chill
+chronic kidney failure,Nephrologists ,rale
+chronic kidney failure,Nephrologists ,fever
+chronic kidney failure,Nephrologists ,pleuritic pain
+chronic kidney failure,Nephrologists ,apyrexial
+chronic kidney failure,Nephrologists ,guaiac positive
+chronic kidney failure,Nephrologists ,swelling
+chronic kidney failure,Nephrologists ,catatonia
+chronic kidney failure,Nephrologists ,unresponsiveness
+chronic kidney failure,Nephrologists ,yellow sputum
+carcinoma,oncologist ,mass of body structure
+carcinoma,oncologist ,pain
+carcinoma,oncologist ,lesion
+carcinoma,oncologist ,tumor cell invasion
+carcinoma,oncologist ,thicken
+carcinoma,oncologist ,decreased body weight
+carcinoma,oncologist ,hoarseness
+carcinoma,oncologist ,general discomfort
+carcinoma,oncologist ,metastatic lesion
+carcinoma,oncologist ,non-productive cough
+carcinoma,oncologist ,constipation
+carcinoma,oncologist ,unhappy
+carcinoma,oncologist ,paresthesia
+carcinoma,oncologist ,gravida 0
+carcinoma,oncologist ,diarrhea
+carcinoma,oncologist ,sore to touch
+carcinoma,oncologist ,heartburn
+carcinoma,oncologist ,nausea
+carcinoma,oncologist ,lung nodule
+hepatitis C,hepatologist,ascites
+hepatitis C,hepatologist,distended abdomen
+hepatitis C,hepatologist,feeling suicidal
+hepatitis C,hepatologist,cough
+hepatitis C,hepatologist,ache
+hepatitis C,hepatologist,macerated skin
+hepatitis C,hepatologist,heavy feeling
+hepatitis C,hepatologist,hallucinations auditory
+hepatitis C,hepatologist,chill
+hepatitis C,hepatologist,asterixis
+hepatitis C,hepatologist,patient non compliance
+peripheral vascular disease,cardiologist,shortness of breath
+peripheral vascular disease,cardiologist,rest pain
+peripheral vascular disease,cardiologist,angina pectoris
+peripheral vascular disease,cardiologist,unresponsiveness
+peripheral vascular disease,cardiologist,hyperkalemia
+peripheral vascular disease,cardiologist,sinus rhythm
+peripheral vascular disease,cardiologist,labored breathing
+peripheral vascular disease,cardiologist,dyspnea
+peripheral vascular disease,cardiologist,sore to touch
+peripheral vascular disease,cardiologist,anorexia
+peripheral vascular disease,cardiologist,sleepy
+psychotic disorder,psychiatrist,suicidal
+psychotic disorder,psychiatrist,hallucinations auditory
+psychotic disorder,psychiatrist,feeling suicidal
+psychotic disorder,psychiatrist,hallucinations visual
+psychotic disorder,psychiatrist,motor retardation
+psychotic disorder,psychiatrist,blackout
+psychotic disorder,psychiatrist,verbal auditory hallucinations
+psychotic disorder,psychiatrist,feeling hopeless
+psychotic disorder,psychiatrist,irritable mood
+psychotic disorder,psychiatrist,agitation
+psychotic disorder,psychiatrist,tremor
+psychotic disorder,psychiatrist,catatonia
+psychotic disorder,psychiatrist,weepiness
+psychotic disorder,psychiatrist,homelessness
+psychotic disorder,psychiatrist,sleeplessness
+psychotic disorder,psychiatrist,withdraw
+psychotic disorder,psychiatrist,energy increased
+psychotic disorder,psychiatrist,intoxication
+psychotic disorder,psychiatrist,worry
+psychotic disorder,psychiatrist,behavior hyperactive
+psychotic disorder,psychiatrist,patient non compliance
+psychotic disorder,psychiatrist,mood depressed
+psychotic disorder,psychiatrist,terrify
+psychotic disorder,psychiatrist,nightmare
+psychotic disorder,psychiatrist,consciousness clear
+hyperlipidemia,physicians ,pain chest
+hyperlipidemia,physicians ,angina pectoris
+hyperlipidemia,physicians ,palpitation
+hyperlipidemia,physicians ,presence of q wave
+hyperlipidemia,physicians ,photopsia
+hyperlipidemia,physicians ,sweat sweating increased
+hyperlipidemia,physicians ,chest discomfort
+hyperlipidemia,physicians ,shortness of breath
+hyperlipidemia,physicians ,giddy mood
+hyperlipidemia,physicians ,hypokinesia
+hyperlipidemia,physicians ,hemiplegia
+hyperlipidemia,physicians ,dizziness
+bipolar disorder,psychiatrist,feeling suicidal
+bipolar disorder,psychiatrist,energy increased
+bipolar disorder,psychiatrist,suicidal
+bipolar disorder,psychiatrist,irritable mood
+bipolar disorder,psychiatrist,agitation
+bipolar disorder,psychiatrist,has religious belief
+bipolar disorder,psychiatrist,disturbed family
+bipolar disorder,psychiatrist,hallucinations auditory
+bipolar disorder,psychiatrist,verbal auditory hallucinations
+bipolar disorder,psychiatrist,weepiness
+bipolar disorder,psychiatrist,behavior hyperactive
+bipolar disorder,psychiatrist,catatonia
+bipolar disorder,psychiatrist,feeling hopeless
+bipolar disorder,psychiatrist,worry
+bipolar disorder,psychiatrist,sleeplessness
+bipolar disorder,psychiatrist,hypersomnia
+bipolar disorder,psychiatrist,difficulty
+bipolar disorder,psychiatrist,hallucinations visual
+bipolar disorder,psychiatrist,hyperhidrosis disorder
+bipolar disorder,psychiatrist,mydriasis
+bipolar disorder,psychiatrist,extrapyramidal sign
+bipolar disorder,psychiatrist,loose associations
+bipolar disorder,psychiatrist,intoxication
+bipolar disorder,psychiatrist,motor retardation
+bipolar disorder,psychiatrist,homelessness
+bipolar disorder,psychiatrist,blackout
+bipolar disorder,psychiatrist,tremor
+bipolar disorder,psychiatrist,exhaustion
+obesity,physicians ,pain
+obesity,physicians ,catatonia
+obesity,physicians ,snore
+obesity,physicians ,pain chest
+obesity,physicians ,r wave feature
+obesity,physicians ,has religious belief
+obesity,physicians ,shortness of breath
+obesity,physicians ,fatigue tired
+obesity,physicians ,overweight
+obesity,physicians ,systolic murmur
+obesity,physicians ,mood depressed
+obesity,physicians ,ecchymosis
+ischemia,physicians ,drowsiness sleepy
+ischemia,physicians ,pain chest
+ischemia,physicians ,angina pectoris
+ischemia,physicians ,pressure chest
+ischemia,physicians ,chest discomfort
+ischemia,physicians ,shortness of breath
+ischemia,physicians ,dyspnea
+ischemia,physicians ,sinus rhythm
+ischemia,physicians ,bradycardia
+ischemia,physicians ,sweat sweating increased
+ischemia,physicians ,rale
+ischemia,physicians ,asymptomatic
+ischemia,physicians ,anorexia
+cirrhosis,hepatologist,ascites
+cirrhosis,hepatologist,fall
+cirrhosis,hepatologist,splenomegaly
+cirrhosis,hepatologist,pruritus
+cirrhosis,hepatologist,pain abdominal
+cirrhosis,hepatologist,tumor cell invasion
+cirrhosis,hepatologist,distended abdomen
+cirrhosis,hepatologist,lesion
+cirrhosis,hepatologist,hemodynamically stable
+cirrhosis,hepatologist,guaiac positive
+cirrhosis,hepatologist,sore to touch
+cirrhosis,hepatologist,bleeding of vagina
+benign prostatic hypertrophy,Endocrinologists ,mental status changes
+benign prostatic hypertrophy,Endocrinologists ,cachexia
+benign prostatic hypertrophy,Endocrinologists ,blackout
+benign prostatic hypertrophy,Endocrinologists ,orthostasis
+benign prostatic hypertrophy,Endocrinologists ,orthopnea
+benign prostatic hypertrophy,Endocrinologists ,night sweat
+benign prostatic hypertrophy,Endocrinologists ,distress respiratory
+benign prostatic hypertrophy,Endocrinologists ,anorexia
+benign prostatic hypertrophy,Endocrinologists ,dysarthria
+kidney failure acute,Nephrologists ,hyperkalemia
+kidney failure acute,Nephrologists ,hypotension
+kidney failure acute,Nephrologists ,hypocalcemia result
+kidney failure acute,Nephrologists ,oliguria
+kidney failure acute,Nephrologists ,hemodynamically stable
+kidney failure acute,Nephrologists ,asthenia
+kidney failure acute,Nephrologists ,"hypothermia, natural"
+kidney failure acute,Nephrologists ,diarrhea
+kidney failure acute,Nephrologists ,haemorrhage
+kidney failure acute,Nephrologists ,unresponsiveness
+mitral valve insufficiency,cardiologists,shortness of breath
+mitral valve insufficiency,cardiologists,dyspnea on exertion
+mitral valve insufficiency,cardiologists,asymptomatic
+mitral valve insufficiency,cardiologists,hypokinesia
+mitral valve insufficiency,cardiologists,dyspnea
+mitral valve insufficiency,cardiologists,syncope
+mitral valve insufficiency,cardiologists,thicken
+mitral valve insufficiency,cardiologists,left atrial hypertrophy
+mitral valve insufficiency,cardiologists,palpitation
+mitral valve insufficiency,cardiologists,fatigue
+mitral valve insufficiency,cardiologists,vomiting
+mitral valve insufficiency,cardiologists,pain
+mitral valve insufficiency,cardiologists,cardiomegaly
+mitral valve insufficiency,cardiologists,chest discomfort
+arthritis,Rheumatologists ,pain
+arthritis,Rheumatologists ,hemodynamically stable
+arthritis,Rheumatologists ,sleeplessness
+arthritis,Rheumatologists ,asthenia
+arthritis,Rheumatologists ,syncope
+arthritis,Rheumatologists ,swelling
+arthritis,Rheumatologists ,atypia
+arthritis,Rheumatologists ,general unsteadiness
+arthritis,Rheumatologists ,shortness of breath
+arthritis,Rheumatologists ,distended abdomen
+bronchitis,pulmonologist,cough
+bronchitis,pulmonologist,wheezing
+bronchitis,pulmonologist,shortness of breath
+bronchitis,pulmonologist,chest tightness
+bronchitis,pulmonologist,fever
+bronchitis,pulmonologist,throat sore
+bronchitis,pulmonologist,productive cough
+bronchitis,pulmonologist,hepatosplenomegaly
+bronchitis,pulmonologist,night sweat
+bronchitis,pulmonologist,haemoptysis
+bronchitis,pulmonologist,labored breathing
+bronchitis,pulmonologist,snuffle
+bronchitis,pulmonologist,hacking cough
+bronchitis,pulmonologist,dyspnea
+bronchitis,pulmonologist,chill
+bronchitis,pulmonologist,stridor
+bronchitis,pulmonologist,decreased body weight
+hemiparesis,pulmonologist,dysarthria
+hemiparesis,pulmonologist,paresis
+hemiparesis,pulmonologist,asthenia
+hemiparesis,pulmonologist,aphagia
+hemiparesis,pulmonologist,seizure
+hemiparesis,pulmonologist,speech slurred
+hemiparesis,pulmonologist,focal seizures
+hemiparesis,pulmonologist,hemiplegia
+hemiparesis,pulmonologist,abnormal sensation
+hemiparesis,pulmonologist,unresponsiveness
+hemiparesis,pulmonologist,stupor
+hemiparesis,pulmonologist,drowsiness sleepy
+hemiparesis,pulmonologist,fremitus
+hemiparesis,pulmonologist,Stahli's line
+hemiparesis,pulmonologist,stinging sensation
+hemiparesis,pulmonologist,paralyse
+hemiparesis,pulmonologist,clonus
+hemiparesis,pulmonologist,facial paresis
+osteoporosis,Rheumatologists ,prostatism
+osteoporosis,Rheumatologists ,fall
+osteoporosis,Rheumatologists ,hirsutism
+osteoporosis,Rheumatologists ,sniffle
+osteoporosis,Rheumatologists ,distended abdomen
+osteoporosis,Rheumatologists ,vertigo
+osteoporosis,Rheumatologists ,numbness of hand
+osteoporosis,Rheumatologists ,bradykinesia
+osteoporosis,Rheumatologists ,pain
+osteoporosis,Rheumatologists ,syncope
+osteoporosis,Rheumatologists ,out of breath
+osteoporosis,Rheumatologists ,apyrexial
+osteoporosis,Rheumatologists ,urge incontinence
+osteoporosis,Rheumatologists ,lightheadedness
+transient ischemic attack,physicians ,speech slurred
+transient ischemic attack,physicians ,dysarthria
+transient ischemic attack,physicians ,facial paresis
+transient ischemic attack,physicians ,asthenia
+transient ischemic attack,physicians ,neck stiffness
+transient ischemic attack,physicians ,vertigo
+transient ischemic attack,physicians ,numbness
+transient ischemic attack,physicians ,lightheadedness
+transient ischemic attack,physicians ,extrapyramidal sign
+transient ischemic attack,physicians ,Stahli's line
+transient ischemic attack,physicians ,vision blurred
+transient ischemic attack,physicians ,headache
+transient ischemic attack,physicians ,room spinning
+transient ischemic attack,physicians ,syncope
+transient ischemic attack,physicians ,difficulty
+transient ischemic attack,physicians ,rambling speech
+transient ischemic attack,physicians ,clumsiness
+adenocarcinoma,oncologist ,mass of body structure
+adenocarcinoma,oncologist ,lesion
+adenocarcinoma,oncologist ,decreased body weight
+adenocarcinoma,oncologist ,constipation
+adenocarcinoma,oncologist ,fremitus
+adenocarcinoma,oncologist ,decreased stool caliber
+adenocarcinoma,oncologist ,satiety early
+adenocarcinoma,oncologist ,hematochezia
+adenocarcinoma,oncologist ,egophony
+adenocarcinoma,oncologist ,pain
+adenocarcinoma,oncologist ,cicatrisation scar tissue
+adenocarcinoma,oncologist ,pain abdominal
+paranoia,psychiatrist,hallucinations auditory
+paranoia,psychiatrist,hallucinations visual
+paranoia,psychiatrist,agitation
+paranoia,psychiatrist,irritable mood
+paranoia,psychiatrist,verbal auditory hallucinations
+paranoia,psychiatrist,feeling suicidal
+paranoia,psychiatrist,suicidal
+paranoia,psychiatrist,terrify
+paranoia,psychiatrist,neologism
+paranoia,psychiatrist,homelessness
+paranoia,psychiatrist,energy increased
+paranoia,psychiatrist,mood depressed
+paranoia,psychiatrist,decompensation
+paranoia,psychiatrist,cicatrisation scar tissue
+paranoia,psychiatrist,blackout
+paranoia,psychiatrist,loose associations
+pancreatitis,gastroenterologist,vomiting
+pancreatitis,gastroenterologist,pain abdominal
+pancreatitis,gastroenterologist,nausea
+pancreatitis,gastroenterologist,pain
+pancreatitis,gastroenterologist,diarrhea
+pancreatitis,gastroenterologist,stool color yellow
+pancreatitis,gastroenterologist,rigor - temperature-associated observation
+pancreatitis,gastroenterologist,apyrexial
+pancreatitis,gastroenterologist,sore to touch
+incontinence,urologist,paraparesis
+incontinence,urologist,seizure
+incontinence,urologist,asthenia
+incontinence,urologist,urge incontinence
+incontinence,urologist,unconscious state
+incontinence,urologist,aura
+incontinence,urologist,moody
+incontinence,urologist,fear of falling
+incontinence,urologist,tremor
+incontinence,urologist,spasm
+incontinence,urologist,unhappy
+incontinence,urologist,syncope
+incontinence,urologist,fall
+incontinence,urologist,stiffness
+incontinence,urologist,unresponsiveness
+paroxysmal dyspnea,Pulmonologists,orthopnea
+paroxysmal dyspnea,Pulmonologists,shortness of breath
+paroxysmal dyspnea,Pulmonologists,dyspnea on exertion
+paroxysmal dyspnea,Pulmonologists,jugular venous distention
+paroxysmal dyspnea,Pulmonologists,rale
+paroxysmal dyspnea,Pulmonologists,pain chest
+paroxysmal dyspnea,Pulmonologists,palpitation
+paroxysmal dyspnea,Pulmonologists,sweat sweating increased
+paroxysmal dyspnea,Pulmonologists,weight gain
+paroxysmal dyspnea,Pulmonologists,cough
+paroxysmal dyspnea,Pulmonologists,dyspnea
+hernia,surgeon,pain abdominal
+hernia,surgeon,pain
+hernia,surgeon,hyperventilation
+hernia,surgeon,excruciating pain
+hernia,surgeon,gag
+hernia,surgeon,nausea
+hernia,surgeon,posturing
+hernia,surgeon,hemiplegia
+hernia,surgeon,sore to touch
+hernia,surgeon,haemorrhage
+hernia,surgeon,apyrexial
+hernia,surgeon,food intolerance
+hernia,surgeon,pulse absent
+hernia,surgeon,asthenia
+hernia,surgeon,mass of body structure
+hernia,surgeon,thicken
+malignant neoplasm of prostate carcinoma prostate,oncologist ,hematuria
+malignant neoplasm of prostate carcinoma prostate,oncologist ,dysesthesia
+malignant neoplasm of prostate carcinoma prostate,oncologist ,asthenia
+malignant neoplasm of prostate carcinoma prostate,oncologist ,polymyalgia
+malignant neoplasm of prostate carcinoma prostate,oncologist ,passed stones
+malignant neoplasm of prostate carcinoma prostate,oncologist ,pleuritic pain
+malignant neoplasm of prostate carcinoma prostate,oncologist ,guaiac positive
+malignant neoplasm of prostate carcinoma prostate,oncologist ,rale
+malignant neoplasm of prostate carcinoma prostate,oncologist ,breath sounds decreased
+malignant neoplasm of prostate carcinoma prostate,oncologist ,urge incontinence
+malignant neoplasm of prostate carcinoma prostate,oncologist ,dysuria
+malignant neoplasm of prostate carcinoma prostate,oncologist ,diarrhea
+malignant neoplasm of prostate carcinoma prostate,oncologist ,vertigo
+malignant neoplasm of prostate carcinoma prostate,oncologist ,qt interval prolonged
+malignant neoplasm of prostate carcinoma prostate,oncologist ,ataxia
+malignant neoplasm of prostate carcinoma prostate,oncologist ,paresis
+malignant neoplasm of prostate carcinoma prostate,oncologist ,hemianopsia homonymous
+malignant neoplasm of prostate carcinoma prostate,oncologist ,tumor cell invasion
+malignant neoplasm of prostate carcinoma prostate,oncologist ,hemodynamically stable
+malignant neoplasm of prostate carcinoma prostate,oncologist ,mass of body structure
+malignant neoplasm of prostate carcinoma prostate,oncologist ,rhonchus
+malignant neoplasm of prostate carcinoma prostate,oncologist ,orthostasis
+malignant neoplasm of prostate carcinoma prostate,oncologist ,decreased body weight
+edema pulmonary,Pulmonologists,urgency of micturition
+edema pulmonary,Pulmonologists,shortness of breath
+edema pulmonary,Pulmonologists,rale
+edema pulmonary,Pulmonologists,tachypnea
+edema pulmonary,Pulmonologists,orthopnea
+edema pulmonary,Pulmonologists,Heberden's node
+edema pulmonary,Pulmonologists,jugular venous distention
+edema pulmonary,Pulmonologists,dyspnea
+edema pulmonary,Pulmonologists,sweat sweating increased
+edema pulmonary,Pulmonologists,patient non compliance
+edema pulmonary,Pulmonologists,chest discomfort
+edema pulmonary,Pulmonologists,hyperkalemia
+edema pulmonary,Pulmonologists,sinus rhythm
+edema pulmonary,Pulmonologists,pain chest
+edema pulmonary,Pulmonologists,hypotension
+edema pulmonary,Pulmonologists,wheezing
+lymphatic diseases,Lymphologist ,pain
+lymphatic diseases,Lymphologist ,mass of body structure
+lymphatic diseases,Lymphologist ,night sweat
+lymphatic diseases,Lymphologist ,splenomegaly
+lymphatic diseases,Lymphologist ,lesion
+lymphatic diseases,Lymphologist ,chill
+lymphatic diseases,Lymphologist ,decreased body weight
+lymphatic diseases,Lymphologist ,swelling
+lymphatic diseases,Lymphologist ,fever
+lymphatic diseases,Lymphologist ,hyperacusis
+lymphatic diseases,Lymphologist ,fremitus
+lymphatic diseases,Lymphologist ,non-productive cough
+lymphatic diseases,Lymphologist ,egophony
+lymphatic diseases,Lymphologist ,redness
+lymphatic diseases,Lymphologist ,hepatomegaly
+lymphatic diseases,Lymphologist ,fatigue
+stenosis aortic valve,cardiologists,dyspnea on exertion
+stenosis aortic valve,cardiologists,syncope
+stenosis aortic valve,cardiologists,chest discomfort
+stenosis aortic valve,cardiologists,systolic murmur
+stenosis aortic valve,cardiologists,sciatica
+stenosis aortic valve,cardiologists,angina pectoris
+stenosis aortic valve,cardiologists,pain chest
+stenosis aortic valve,cardiologists,frothy sputum
+stenosis aortic valve,cardiologists,bradycardia
+stenosis aortic valve,cardiologists,shortness of breath
+stenosis aortic valve,cardiologists,pain
+malignant neoplasm of breast carcinoma breast,oncologist ,mass in breast
+malignant neoplasm of breast carcinoma breast,oncologist ,mass of body structure
+malignant neoplasm of breast carcinoma breast,oncologist ,paresthesia
+malignant neoplasm of breast carcinoma breast,oncologist ,retropulsion
+malignant neoplasm of breast carcinoma breast,oncologist ,erythema
+malignant neoplasm of breast carcinoma breast,oncologist ,difficulty
+malignant neoplasm of breast carcinoma breast,oncologist ,lesion
+malignant neoplasm of breast carcinoma breast,oncologist ,estrogen use
+malignant neoplasm of breast carcinoma breast,oncologist ,burning sensation
+malignant neoplasm of breast carcinoma breast,oncologist ,dyspnea
+malignant neoplasm of breast carcinoma breast,oncologist ,swelling
+malignant neoplasm of breast carcinoma breast,oncologist ,formication
+schizophrenia,psychiatrist,hallucinations auditory
+schizophrenia,psychiatrist,hypersomnolence
+schizophrenia,psychiatrist,irritable mood
+schizophrenia,psychiatrist,verbal auditory hallucinations
+schizophrenia,psychiatrist,patient non compliance
+schizophrenia,psychiatrist,agitation
+schizophrenia,psychiatrist,suicidal
+schizophrenia,psychiatrist,worry
+schizophrenia,psychiatrist,hallucinations visual
+schizophrenia,psychiatrist,underweight underweight
+schizophrenia,psychiatrist,homelessness
+ulcer peptic,physicians ,pain abdominal
+ulcer peptic,physicians ,paraparesis
+ulcer peptic,physicians ,nausea
+ulcer peptic,physicians ,vomiting
+ulcer peptic,physicians ,polymyalgia
+ulcer peptic,physicians ,out of breath
+ulcer peptic,physicians ,pain chest
+ulcer peptic,physicians ,hemiplegia
+ulcer peptic,physicians ,gurgle
+ulcer peptic,physicians ,hunger
+ulcer peptic,physicians ,apyrexial
+ulcer peptic,physicians ,nervousness
+osteomyelitis,orthopedic ,pain
+osteomyelitis,orthopedic ,redness
+osteomyelitis,orthopedic ,prostate tender
+osteomyelitis,orthopedic ,fever
+osteomyelitis,orthopedic ,difficulty passing urine
+osteomyelitis,orthopedic ,sore to touch
+osteomyelitis,orthopedic ,swelling
+osteomyelitis,orthopedic ,apyrexial
+osteomyelitis,orthopedic ,erythema
+osteomyelitis,orthopedic ,abscess bacterial
+osteomyelitis,orthopedic ,pain foot
+osteomyelitis,orthopedic ,urinary hesitation
+gastritis,gastroenterologist,heme positive
+gastritis,gastroenterologist,pain abdominal
+gastritis,gastroenterologist,vomiting
+gastritis,gastroenterologist,disequilibrium
+gastritis,gastroenterologist,nausea
+gastritis,gastroenterologist,intoxication
+gastritis,gastroenterologist,haemorrhage
+gastritis,gastroenterologist,guaiac positive
+gastritis,gastroenterologist,pain
+gastritis,gastroenterologist,decreased body weight
+gastritis,gastroenterologist,sore to touch
+gastritis,gastroenterologist,dizziness
+failure kidney,nephrologist ,orthopnea
+failure kidney,nephrologist ,oliguria
+failure kidney,nephrologist ,slowing of urinary stream
+failure kidney,nephrologist ,extreme exhaustion
+failure kidney,nephrologist ,unresponsiveness
+failure kidney,nephrologist ,hypotension
+failure kidney,nephrologist ,enuresis
+failure kidney,nephrologist ,shortness of breath
+failure kidney,nephrologist ,haemorrhage
+failure kidney,nephrologist ,prostatism
+failure kidney,nephrologist ,no status change
+failure kidney,nephrologist ,bedridden bedridden
+failure kidney,nephrologist ,fatigue
+sickle cell anemia,hematologist,breakthrough pain
+sickle cell anemia,hematologist,pain back
+sickle cell anemia,hematologist,pain
+sickle cell anemia,hematologist,shortness of breath
+sickle cell anemia,hematologist,snuffle
+sickle cell anemia,hematologist,pain chest
+sickle cell anemia,hematologist,pain abdominal
+sickle cell anemia,hematologist,hepatosplenomegaly
+sickle cell anemia,hematologist,green sputum
+sickle cell anemia,hematologist,apyrexial
+sickle cell anemia,hematologist,headache
+failure heart,cardiologists,orthopnea
+failure heart,cardiologists,fatigue
+failure heart,cardiologists,dyspnea on exertion
+failure heart,cardiologists,dyspnea
+failure heart,cardiologists,shortness of breath
+failure heart,cardiologists,pansystolic murmur
+failure heart,cardiologists,jugular venous distention
+failure heart,cardiologists,systolic ejection murmur
+failure heart,cardiologists,hypotension
+failure heart,cardiologists,angina pectoris
+failure heart,cardiologists,hypokinesia
+upper respiratory infection,Pulmonologists,cough
+upper respiratory infection,Pulmonologists,throat sore
+upper respiratory infection,Pulmonologists,wheezing
+upper respiratory infection,Pulmonologists,shortness of breath
+upper respiratory infection,Pulmonologists,labored breathing
+upper respiratory infection,Pulmonologists,fever
+upper respiratory infection,Pulmonologists,stuffy nose
+upper respiratory infection,Pulmonologists,non-productive cough
+upper respiratory infection,Pulmonologists,snuffle
+upper respiratory infection,Pulmonologists,indifferent mood
+upper respiratory infection,Pulmonologists,egophony
+upper respiratory infection,Pulmonologists,barking cough
+upper respiratory infection,Pulmonologists,polymyalgia
+upper respiratory infection,Pulmonologists,pleuritic pain
+upper respiratory infection,Pulmonologists,night sweat
+upper respiratory infection,Pulmonologists,dyspnea
+upper respiratory infection,Pulmonologists,productive cough
+upper respiratory infection,Pulmonologists,decreased translucency
+upper respiratory infection,Pulmonologists,rhonchus
+upper respiratory infection,Pulmonologists,rapid shallow breathing
+upper respiratory infection,Pulmonologists,apyrexial
+upper respiratory infection,Pulmonologists,noisy respiration
+upper respiratory infection,Pulmonologists,nasal discharge present
+upper respiratory infection,Pulmonologists,emphysematous change
+upper respiratory infection,Pulmonologists,frail
+upper respiratory infection,Pulmonologists,cystic lesion
+upper respiratory infection,Pulmonologists,symptom aggravating factors
+upper respiratory infection,Pulmonologists,hemodynamically stable
+hepatitis,hepatologist,ascites
+hepatitis,hepatologist,spontaneous rupture of membranes
+hepatitis,hepatologist,tachypnea
+hepatitis,hepatologist,pain abdominal
+hepatitis,hepatologist,pruritus
+hepatitis,hepatologist,anorexia
+hepatitis,hepatologist,transaminitis
+hepatitis,hepatologist,projectile vomiting
+hepatitis,hepatologist,chill
+hepatitis,hepatologist,distress respiratory
+hepatitis,hepatologist,fever
+hepatitis,hepatologist,vomiting
+hypertension pulmonary,cardiologists,shortness of breath
+hypertension pulmonary,cardiologists,Stahli's line
+hypertension pulmonary,cardiologists,heavy legs
+hypertension pulmonary,cardiologists,breath sounds decreased
+hypertension pulmonary,cardiologists,neck stiffness
+hypertension pulmonary,cardiologists,dyspnea on exertion
+hypertension pulmonary,cardiologists,cyanosis
+hypertension pulmonary,cardiologists,hypotension
+hypertension pulmonary,cardiologists,left atrial hypertrophy
+deglutition disorder,Pulmonologists,paresthesia
+deglutition disorder,Pulmonologists,titubation
+deglutition disorder,Pulmonologists,dysarthria
+deglutition disorder,Pulmonologists,painful swallowing
+deglutition disorder,Pulmonologists,hoarseness
+deglutition disorder,Pulmonologists,stridor
+deglutition disorder,Pulmonologists,spasm
+deglutition disorder,Pulmonologists,asthenia
+deglutition disorder,Pulmonologists,dysdiadochokinesia
+deglutition disorder,Pulmonologists,ataxia
+deglutition disorder,Pulmonologists,achalasia
+deglutition disorder,Pulmonologists,decreased body weight
+deglutition disorder,Pulmonologists,stiffness
+deglutition disorder,Pulmonologists,lesion
+deglutition disorder,Pulmonologists,side pain
+gout,Rheumatologist,hot flush
+gout,Rheumatologist,pain
+gout,Rheumatologist,redness
+gout,Rheumatologist,swelling
+gout,Rheumatologist,erythema
+gout,Rheumatologist,emphysematous change
+gout,Rheumatologist,sore to touch
+gout,Rheumatologist,hypokinesia
+gout,Rheumatologist,ascites
+gout,Rheumatologist,patient non compliance
+thrombocytopaenia,hematologist,ecchymosis
+thrombocytopaenia,hematologist,monocytosis
+thrombocytopaenia,hematologist,posterior rhinorrhea
+thrombocytopaenia,hematologist,haemorrhage
+thrombocytopaenia,hematologist,tachypnea
+thrombocytopaenia,hematologist,fever
+thrombocytopaenia,hematologist,pruritus
+thrombocytopaenia,hematologist,hypotension
+thrombocytopaenia,hematologist,fatigue
+hypoglycemia,physicians ,unresponsiveness
+hypoglycemia,physicians ,"hypothermia, natural"
+hypoglycemia,physicians ,incoherent
+hypoglycemia,physicians ,qt interval prolonged
+hypoglycemia,physicians ,lameness claudication
+hypoglycemia,physicians ,unconscious state
+hypoglycemia,physicians ,clammy skin
+hypoglycemia,physicians ,polyuria
+hypoglycemia,physicians ,distress respiratory
+hypoglycemia,physicians ,hypotension
+pneumonia aspiration,pulmonologist,mediastinal shift
+pneumonia aspiration,pulmonologist,fever
+pneumonia aspiration,pulmonologist,clonus
+pneumonia aspiration,pulmonologist,mental status changes
+pneumonia aspiration,pulmonologist,decreased translucency
+pneumonia aspiration,pulmonologist,unresponsiveness
+pneumonia aspiration,pulmonologist,extreme exhaustion
+pneumonia aspiration,pulmonologist,stupor
+pneumonia aspiration,pulmonologist,seizure
+pneumonia aspiration,pulmonologist,transaminitis
+pneumonia aspiration,pulmonologist,hemiplegia
+pneumonia aspiration,pulmonologist,cough
+pneumonia aspiration,pulmonologist,gurgle
+pneumonia aspiration,pulmonologist,pain
+pneumonia aspiration,pulmonologist,diarrhea
+pneumonia aspiration,pulmonologist,pain abdominal
+colitis,gastroenterologist ,fever
+colitis,gastroenterologist ,thicken
+colitis,gastroenterologist ,green sputum
+colitis,gastroenterologist ,vomiting
+colitis,gastroenterologist ,nausea and vomiting
+colitis,gastroenterologist ,awakening early
+colitis,gastroenterologist ,pain
+colitis,gastroenterologist ,nausea
+colitis,gastroenterologist ,chill
+colitis,gastroenterologist ,tenesmus
+colitis,gastroenterologist ,urge incontinence
+colitis,gastroenterologist ,pain abdominal
+colitis,gastroenterologist ,hemodynamically stable
+diverticulosis,diverticulosis,fecaluria
+diverticulosis,diverticulosis,constipation
+diverticulosis,diverticulosis,abscess bacterial
+diverticulosis,diverticulosis,heme positive
+diverticulosis,diverticulosis,lightheadedness
+diverticulosis,diverticulosis,diarrhea
+diverticulosis,diverticulosis,haemorrhage
+diverticulosis,diverticulosis,pain
+diverticulosis,diverticulosis,projectile vomiting
+diverticulosis,diverticulosis,pneumatouria
+diverticulosis,diverticulosis,cystic lesion
+diverticulosis,diverticulosis,anorexia
+diverticulosis,diverticulosis,nausea
+diverticulosis,diverticulosis,feeling suicidal
+diverticulosis,diverticulosis,feeling hopeless
+suicide attempt,psychiatrist,hallucinations auditory
+suicide attempt,psychiatrist,sleeplessness
+suicide attempt,psychiatrist,suicidal
+suicide attempt,psychiatrist,motor retardation
+suicide attempt,psychiatrist,weepiness
+suicide attempt,psychiatrist,unable to concentrate
+suicide attempt,psychiatrist,todd paralysis
+suicide attempt,psychiatrist,worry
+suicide attempt,psychiatrist,fatigue
+suicide attempt,psychiatrist,tremor
+suicide attempt,psychiatrist,alcoholic withdrawal symptoms
+suicide attempt,psychiatrist,agitation
+suicide attempt,psychiatrist,unresponsiveness
+suicide attempt,psychiatrist,blackout
+suicide attempt,psychiatrist,withdraw
+suicide attempt,psychiatrist,difficulty
+suicide attempt,psychiatrist,irritable mood
+suicide attempt,psychiatrist,sensory discomfort
+suicide attempt,psychiatrist,drowsiness
+suicide attempt,psychiatrist,formication
+suicide attempt,psychiatrist,unconscious state
+suicide attempt,psychiatrist,fever
+suicide attempt,psychiatrist,cough
+Pneumocystis carinii pneumonia,pulmonologist,yellow sputum
+Pneumocystis carinii pneumonia,pulmonologist,cachexia
+Pneumocystis carinii pneumonia,pulmonologist,chill
+Pneumocystis carinii pneumonia,pulmonologist,decreased body weight
+Pneumocystis carinii pneumonia,pulmonologist,productive cough
+Pneumocystis carinii pneumonia,pulmonologist,myalgia
+Pneumocystis carinii pneumonia,pulmonologist,diarrhea
+Pneumocystis carinii pneumonia,pulmonologist,neck stiffness
+Pneumocystis carinii pneumonia,pulmonologist,hacking cough
+Pneumocystis carinii pneumonia,pulmonologist,dyspareunia
+Pneumocystis carinii pneumonia,pulmonologist,hypokalemia
+Pneumocystis carinii pneumonia,pulmonologist,dyspnea on exertion
+Pneumocystis carinii pneumonia,pulmonologist,poor dentition
+Pneumocystis carinii pneumonia,pulmonologist,transaminitis
+Pneumocystis carinii pneumonia,pulmonologist,non-productive cough
+Pneumocystis carinii pneumonia,pulmonologist,headache
+Pneumocystis carinii pneumonia,pulmonologist,floppy
+Pneumocystis carinii pneumonia,pulmonologist,spontaneous rupture of membranes
+parkinson disease,psychiatrist,achalasia
+parkinson disease,psychiatrist,fall
+parkinson disease,psychiatrist,stiffness
+parkinson disease,psychiatrist,withdraw
+parkinson disease,psychiatrist,agitation
+parkinson disease,psychiatrist,hemiplegia
+parkinson disease,psychiatrist,difficulty
+parkinson disease,psychiatrist,unresponsiveness
+parkinson disease,psychiatrist,syncope
+parkinson disease,psychiatrist,facial paresis
+parkinson disease,psychiatrist,orthostasis
+parkinson disease,psychiatrist,worry
+parkinson disease,psychiatrist,drowsiness sleepy
+parkinson disease,psychiatrist,hematuria
+parkinson disease,psychiatrist,tremor
+parkinson disease,psychiatrist,night sweat
+parkinson disease,psychiatrist,mass of body structure
+lymphoma,hematologist,lesion
+lymphoma,hematologist,fever
+lymphoma,hematologist,welt
+lymphoma,hematologist,transaminitis
+lymphoma,hematologist,decreased body weight
+lymphoma,hematologist,ataxia
+lymphoma,hematologist,tinnitus
+lymphoma,hematologist,hydropneumothorax
+lymphoma,hematologist,superimposition
+lymphoma,hematologist,haemoptysis
+lymphoma,hematologist,fatigue tired
+lymphoma,hematologist,polydypsia
+lymphoma,hematologist,difficulty passing urine
+hyperglycemia,physician,sore to touch
+hyperglycemia,physician,pruritus
+hyperglycemia,physician,feeling strange
+hyperglycemia,physician,pustule
+hyperglycemia,physician,cushingoid facies cushingoid habitus
+hyperglycemia,physician,decreased body weight
+hyperglycemia,physician,mood depressed
+hyperglycemia,physician,estrogen use
+hyperglycemia,physician,wheezing
+hyperglycemia,physician,ascites
+hyperglycemia,physician,seizure
+encephalopathy,neurologists,uncoordination
+encephalopathy,neurologists,asterixis
+encephalopathy,neurologists,haemorrhage
+encephalopathy,neurologists,drowsiness sleepy
+encephalopathy,neurologists,absences finding
+encephalopathy,neurologists,posturing
+encephalopathy,neurologists,aura
+encephalopathy,neurologists,tonic seizures
+encephalopathy,neurologists,debilitation
+encephalopathy,neurologists,consciousness clear
+encephalopathy,neurologists,unresponsiveness
+encephalopathy,neurologists,thicken
+encephalopathy,neurologists,hypokinesia
+tricuspid valve insufficiency,cardiologist,shortness of breath
+tricuspid valve insufficiency,cardiologist,pain
+tricuspid valve insufficiency,cardiologist,vomiting
+tricuspid valve insufficiency,cardiologist,nausea
+tricuspid valve insufficiency,cardiologist,bradycardia
+tricuspid valve insufficiency,cardiologist,pain abdominal
+tricuspid valve insufficiency,cardiologist,fever
+tricuspid valve insufficiency,cardiologist,cicatrisation
+tricuspid valve insufficiency,cardiologist,mediastinal shift
+tricuspid valve insufficiency,cardiologist,impaired cognition
+Alzheimer's disease,psychiatrist,drool
+Alzheimer's disease,psychiatrist,agitation
+Alzheimer's disease,psychiatrist,nightmare
+Alzheimer's disease,psychiatrist,rhonchus
+Alzheimer's disease,psychiatrist,consciousness clear
+Alzheimer's disease,psychiatrist,pin-point pupils
+Alzheimer's disease,psychiatrist,bedridden bedridden
+Alzheimer's disease,psychiatrist,frail
+Alzheimer's disease,psychiatrist,tremor resting
+Alzheimer's disease,psychiatrist,hyperkalemia
+Alzheimer's disease,psychiatrist,facial paresis
+Alzheimer's disease,psychiatrist,groggy
+Alzheimer's disease,psychiatrist,muscle twitch
+Alzheimer's disease,psychiatrist,wheelchair bound
+Alzheimer's disease,psychiatrist,tremor
+Alzheimer's disease,psychiatrist,cough
+Alzheimer's disease,psychiatrist,fever
+neuropathy,neurologist,asthenia
+neuropathy,neurologist,numbness
+neuropathy,neurologist,nausea and vomiting
+neuropathy,neurologist,awakening early
+neuropathy,neurologist,hydropneumothorax
+neuropathy,neurologist,superimposition
+neuropathy,neurologist,fatigability
+neuropathy,neurologist,tenesmus
+neuropathy,neurologist,pain
+neuropathy,neurologist,slowing of urinary stream
+kidney disease,nephrologist ,shortness of breath
+kidney disease,nephrologist ,hyperkalemia
+kidney disease,nephrologist ,pain chest
+kidney disease,nephrologist ,fever
+kidney disease,nephrologist ,gravida 0
+kidney disease,nephrologist ,bleeding of vagina
+glaucoma,ophthalmologists,fall
+glaucoma,ophthalmologists,distended abdomen
+glaucoma,ophthalmologists,unsteady gait
+glaucoma,ophthalmologists,paresthesia
+glaucoma,ophthalmologists,hyponatremia
+glaucoma,ophthalmologists,agitation
+glaucoma,ophthalmologists,unconscious state
+glaucoma,ophthalmologists,burning sensation
+glaucoma,ophthalmologists,lesion
+glaucoma,ophthalmologists,mass of body structure
+neoplasm metastasis,oncologist ,thicken
+neoplasm metastasis,oncologist ,tumor cell invasion
+neoplasm metastasis,oncologist ,metastatic lesion
+neoplasm metastasis,oncologist ,pain neck
+neoplasm metastasis,oncologist ,lung nodule
+neoplasm metastasis,oncologist ,pain
+neoplasm metastasis,oncologist ,pain abdominal
+neoplasm metastasis,oncologist ,food intolerance
+neoplasm metastasis,oncologist ,mass of body structure
+neoplasm metastasis,oncologist ,atypia
+malignant tumor of colon carcinoma colon,oncologist ,lesion
+malignant tumor of colon carcinoma colon,oncologist ,prostatism
+malignant tumor of colon carcinoma colon,oncologist ,constipation
+malignant tumor of colon carcinoma colon,oncologist ,general discomfort
+malignant tumor of colon carcinoma colon,oncologist ,diarrhea
+malignant tumor of colon carcinoma colon,oncologist ,pain abdominal
+malignant tumor of colon carcinoma colon,oncologist ,urinary hesitation
+malignant tumor of colon carcinoma colon,oncologist ,dizzy spells
+malignant tumor of colon carcinoma colon,oncologist ,shooting pain
+malignant tumor of colon carcinoma colon,oncologist ,bradycardia
+malignant tumor of colon carcinoma colon,oncologist ,vomiting
+malignant tumor of colon carcinoma colon,oncologist ,systolic ejection murmur
+malignant tumor of colon carcinoma colon,oncologist ,nausea
+malignant tumor of colon carcinoma colon,oncologist ,hyperemesis
+malignant tumor of colon carcinoma colon,oncologist ,polydypsia
+ketoacidosis diabetic,physician,polyuria
+ketoacidosis diabetic,physician,vomiting
+ketoacidosis diabetic,physician,nausea
+ketoacidosis diabetic,physician,pain abdominal
+ketoacidosis diabetic,physician,milky
+ketoacidosis diabetic,physician,feeling strange
+ketoacidosis diabetic,physician,gurgle
+ketoacidosis diabetic,physician,nervousness
+ketoacidosis diabetic,physician,abdominal tenderness
+ketoacidosis diabetic,physician,regurgitates after swallowing
+ketoacidosis diabetic,physician,vision blurred
+ketoacidosis diabetic,physician,urinary hesitation
+ketoacidosis diabetic,physician,diarrhea
+ketoacidosis diabetic,physician,seizure
+ketoacidosis diabetic,physician,aura
+tonic-clonic epilepsy tonic-clonic seizures,psychiatrist,drowsiness
+tonic-clonic epilepsy tonic-clonic seizures,psychiatrist,lip smacking
+tonic-clonic epilepsy tonic-clonic seizures,psychiatrist,myoclonus
+tonic-clonic epilepsy tonic-clonic seizures,psychiatrist,tremor
+tonic-clonic epilepsy tonic-clonic seizures,psychiatrist,phonophobia
+tonic-clonic epilepsy tonic-clonic seizures,psychiatrist,rolling of eyes
+tonic-clonic epilepsy tonic-clonic seizures,psychiatrist,sleepy
+tonic-clonic epilepsy tonic-clonic seizures,psychiatrist,hirsutism
+tonic-clonic epilepsy tonic-clonic seizures,psychiatrist,moody
+tonic-clonic epilepsy tonic-clonic seizures,psychiatrist,muscle twitch
+tonic-clonic epilepsy tonic-clonic seizures,psychiatrist,unresponsiveness
+tonic-clonic epilepsy tonic-clonic seizures,psychiatrist,headache
+tonic-clonic epilepsy tonic-clonic seizures,psychiatrist,ambidexterity
+tonic-clonic epilepsy tonic-clonic seizures,psychiatrist,absences finding
+tonic-clonic epilepsy tonic-clonic seizures,psychiatrist,spasm
+tonic-clonic epilepsy tonic-clonic seizures,psychiatrist,decreased body weight
+tonic-clonic epilepsy tonic-clonic seizures,psychiatrist,tumor cell invasion
+malignant neoplasms,oncologist ,pulsus paradoxus
+malignant neoplasms,oncologist ,gravida 10
+malignant neoplasms,oncologist ,mass of body structure
+malignant neoplasms,oncologist ,lesion
+malignant neoplasms,oncologist ,heartburn
+malignant neoplasms,oncologist ,night sweat
+malignant neoplasms,oncologist ,thicken
+malignant neoplasms,oncologist ,chill
+malignant neoplasms,oncologist ,decreased translucency
+malignant neoplasms,oncologist ,pain abdominal
+malignant neoplasms,oncologist ,dullness
+malignant neoplasms,oncologist ,food intolerance
+malignant neoplasms,oncologist ,distress respiratory
+malignant neoplasms,oncologist ,hypotension
+respiratory failure,pulmonologist,hemiplegia
+respiratory failure,pulmonologist,snore
+respiratory failure,pulmonologist,unresponsiveness
+respiratory failure,pulmonologist,productive cough
+respiratory failure,pulmonologist,dyspnea
+respiratory failure,pulmonologist,tachypnea
+respiratory failure,pulmonologist,hyperkalemia
+respiratory failure,pulmonologist,hypokinesia
+respiratory failure,pulmonologist,sinus rhythm
+respiratory failure,pulmonologist,general unsteadiness
+respiratory failure,pulmonologist,bruit
+respiratory failure,pulmonologist,consciousness clear
+respiratory failure,pulmonologist,shortness of breath
+respiratory failure,pulmonologist,lesion
+respiratory failure,pulmonologist,redness
+melanoma,dermatologist,mass of body structure
+melanoma,dermatologist,paraparesis
+melanoma,dermatologist,fever
+melanoma,dermatologist,gravida 0
+melanoma,dermatologist,pain
+melanoma,dermatologist,pruritus
+melanoma,dermatologist,mass in breast
+melanoma,dermatologist,vomiting
+melanoma,dermatologist,diarrhea
+gastroenteritis,gastroenterologist,pain abdominal
+gastroenteritis,gastroenterologist,breath-holding spell
+gastroenteritis,gastroenterologist,nausea
+gastroenteritis,gastroenterologist,decreased body weight
+gastroenteritis,gastroenterologist,sore to touch
+gastroenteritis,gastroenterologist,scleral icterus
+gastroenteritis,gastroenterologist,fever
+gastroenteritis,gastroenterologist,myalgia
+gastroenteritis,gastroenterologist,hyponatremia
+gastroenteritis,gastroenterologist,retch
+gastroenteritis,gastroenterologist,mass of body structure
+gastroenteritis,gastroenterologist,decreased body weight
+malignant neoplasm of lung carcinoma of lung,oncologist ,lesion
+malignant neoplasm of lung carcinoma of lung,oncologist ,cough
+malignant neoplasm of lung carcinoma of lung,oncologist ,lung nodule
+malignant neoplasm of lung carcinoma of lung,oncologist ,shortness of breath
+malignant neoplasm of lung carcinoma of lung,oncologist ,haemoptysis
+malignant neoplasm of lung carcinoma of lung,oncologist ,debilitation
+malignant neoplasm of lung carcinoma of lung,oncologist ,gurgle
+malignant neoplasm of lung carcinoma of lung,oncologist ,ache
+malignant neoplasm of lung carcinoma of lung,oncologist ,rale
+malignant neoplasm of lung carcinoma of lung,oncologist ,night sweat
+malignant neoplasm of lung carcinoma of lung,oncologist ,decreased translucency
+malignant neoplasm of lung carcinoma of lung,oncologist ,asthenia
+malignant neoplasm of lung carcinoma of lung,oncologist ,metastatic lesion
+malignant neoplasm of lung carcinoma of lung,oncologist ,agitation
+malignant neoplasm of lung carcinoma of lung,oncologist ,irritable mood
+manic disorder,psychiatrist,energy increased
+manic disorder,psychiatrist,suicidal
+manic disorder,psychiatrist,hypersomnia
+manic disorder,psychiatrist,feeling suicidal
+manic disorder,psychiatrist,blanch
+manic disorder,psychiatrist,hallucinations auditory
+manic disorder,psychiatrist,hallucinations visual
+manic disorder,psychiatrist,elation
+manic disorder,psychiatrist,verbal auditory hallucinations
+manic disorder,psychiatrist,feeling hopeless
+manic disorder,psychiatrist,difficulty
+manic disorder,psychiatrist,decompensation
+manic disorder,psychiatrist,verbally abusive behavior
+manic disorder,psychiatrist,suicidal
+manic disorder,psychiatrist,feeling suicidal
+personality disorder,psychiatrist,nightmare
+personality disorder,psychiatrist,feeling hopeless
+personality disorder,psychiatrist,transsexual
+personality disorder,psychiatrist,hallucinations auditory
+personality disorder,psychiatrist,irritable mood
+personality disorder,psychiatrist,sleeplessness
+personality disorder,psychiatrist,agitation
+personality disorder,psychiatrist,weepiness
+personality disorder,psychiatrist,mood depressed
+personality disorder,psychiatrist,scratch marks
+personality disorder,psychiatrist,nausea and vomiting
+personality disorder,psychiatrist,extreme exhaustion
+personality disorder,psychiatrist,side pain
+personality disorder,psychiatrist,worry
+personality disorder,psychiatrist,enuresis
+personality disorder,psychiatrist,homelessness
+personality disorder,psychiatrist,nervousness
+personality disorder,psychiatrist,ascites
+personality disorder,psychiatrist,pruritus
+primary carcinoma of the liver cells,oncologist ,mass of body structure
+primary carcinoma of the liver cells,oncologist ,splenomegaly
+primary carcinoma of the liver cells,oncologist ,lesion
+primary carcinoma of the liver cells,oncologist ,paresis
+primary carcinoma of the liver cells,oncologist ,tumor cell invasion
+primary carcinoma of the liver cells,oncologist ,room spinning
+primary carcinoma of the liver cells,oncologist ,haemorrhage
+primary carcinoma of the liver cells,oncologist ,thicken
+primary carcinoma of the liver cells,oncologist ,indifferent mood
+primary carcinoma of the liver cells,oncologist ,cachexia
+primary carcinoma of the liver cells,oncologist ,"hypothermia, natural"
+primary carcinoma of the liver cells,oncologist ,pain abdominal
+primary carcinoma of the liver cells,oncologist ,hepatomegaly
+primary carcinoma of the liver cells,oncologist ,hematocrit decreased
+primary carcinoma of the liver cells,oncologist ,stupor
+primary carcinoma of the liver cells,oncologist ,decreased body weight
+primary carcinoma of the liver cells,oncologist ,shortness of breath
+primary carcinoma of the liver cells,oncologist ,cough
+emphysema pulmonary,pulmonologist,behavior showing increased motor activity
+emphysema pulmonary,pulmonologist,scar tissue
+emphysema pulmonary,pulmonologist,dyspnea on exertion
+emphysema pulmonary,pulmonologist,coordination abnormal
+emphysema pulmonary,pulmonologist,myalgia
+emphysema pulmonary,pulmonologist,hypercapnia
+emphysema pulmonary,pulmonologist,clammy skin
+emphysema pulmonary,pulmonologist,has religious belief
+emphysema pulmonary,pulmonologist,room spinning
+emphysema pulmonary,pulmonologist,moan
+emphysema pulmonary,pulmonologist,night sweat
+emphysema pulmonary,pulmonologist,cachexia
+emphysema pulmonary,pulmonologist,symptom aggravating factors
+emphysema pulmonary,pulmonologist,dyspnea
+emphysema pulmonary,pulmonologist,rale
+emphysema pulmonary,pulmonologist,flushing
+emphysema pulmonary,pulmonologist,painful swallowing
+emphysema pulmonary,pulmonologist,arthralgia
+emphysema pulmonary,pulmonologist,choke
+emphysema pulmonary,pulmonologist,tenesmus
+emphysema pulmonary,pulmonologist,constipation
+hemorrhoids,gastroenterologist,haemorrhage
+hemorrhoids,gastroenterologist,bowel sounds decreased
+hemorrhoids,gastroenterologist,decreased stool caliber
+hemorrhoids,gastroenterologist,nausea and vomiting
+hemorrhoids,gastroenterologist,hunger
+hemorrhoids,gastroenterologist,diarrhea
+hemorrhoids,gastroenterologist,dizziness
+hemorrhoids,gastroenterologist,hyponatremia
+hemorrhoids,gastroenterologist,clonus
+hemorrhoids,gastroenterologist,pain
+hemorrhoids,gastroenterologist,achalasia
+hemorrhoids,gastroenterologist,burning sensation
+hemorrhoids,gastroenterologist,guaiac positive
+hemorrhoids,gastroenterologist,numbness of hand
+hemorrhoids,gastroenterologist,wheezing
+hemorrhoids,gastroenterologist,cough
+spasm bronchial,pulmonologist,shortness of breath
+spasm bronchial,pulmonologist,scar tissue
+spasm bronchial,pulmonologist,apyrexial
+spasm bronchial,pulmonologist,no known drug allergies
+spasm bronchial,pulmonologist,pain
+spasm bronchial,pulmonologist,productive cough
+spasm bronchial,pulmonologist,throat sore
+spasm bronchial,pulmonologist,dyspnea
+spasm bronchial,pulmonologist,chest tightness
+spasm bronchial,pulmonologist,hypoxemia
+spasm bronchial,pulmonologist,tachypnea
+spasm bronchial,pulmonologist,sensory discomfort
+spasm bronchial,pulmonologist,fever
+spasm bronchial,pulmonologist,vomiting
+spasm bronchial,pulmonologist,rhonchus
+spasm bronchial,pulmonologist,hemiplegia
+spasm bronchial,pulmonologist,fremitus
+aphasia,rehabilitation,clonus
+aphasia,rehabilitation,egophony
+aphasia,rehabilitation,facial paresis
+aphasia,rehabilitation,aphagia
+aphasia,rehabilitation,muscle twitch
+aphasia,rehabilitation,paralyse
+aphasia,rehabilitation,low back pain
+aphasia,rehabilitation,charleyhorse
+pyelonephritis,Nephrologist,fever
+pyelonephritis,Nephrologist,pain
+pyelonephritis,Nephrologist,urgency of micturition
+pyelonephritis,Nephrologist,hematuria
+pyelonephritis,Nephrologist,vomiting
+pyelonephritis,Nephrologist,chill
+pyelonephritis,Nephrologist,diarrhea
+pyelonephritis,Nephrologist,nausea
+pyelonephritis,Nephrologist,pain abdominal
+pyelonephritis,Nephrologist,myalgia
+pyelonephritis,Nephrologist,fever
+pyelonephritis,Nephrologist,chill
+endocarditis,cardiologist,pleuritic pain
+endocarditis,cardiologist,thicken
+endocarditis,cardiologist,myalgia
+endocarditis,cardiologist,apyrexial
+endocarditis,cardiologist,night sweat
+endocarditis,cardiologist,flare
+endocarditis,cardiologist,shortness of breath
+endocarditis,cardiologist,orthopnea
+endocarditis,cardiologist,abscess bacterial
+endocarditis,cardiologist,hypotension
+endocarditis,cardiologist,cough
+endocarditis,cardiologist,metastatic lesion
+endocarditis,cardiologist,breath sounds decreased
+endocarditis,cardiologist,decreased body weight
+endocarditis,cardiologist,decreased body weight
+endocarditis,cardiologist,pulsus paradoxus
+endocarditis,cardiologist,hypokinesia
+pneumothorax,Pulmonologist,dyspnea
+pneumothorax,Pulmonologist,cardiovascular finding cardiovascular event
+pneumothorax,Pulmonologist,haemoptysis
+pneumothorax,Pulmonologist,cough
+pneumothorax,Pulmonologist,hypercapnia
+pneumothorax,Pulmonologist,soft tissue swelling
+pneumothorax,Pulmonologist,prostatism
+pneumothorax,Pulmonologist,agitation
+influenza,physician,uncoordination
+influenza,physician,fever
+influenza,physician,pleuritic pain
+influenza,physician,snuffle
+influenza,physician,throat sore
+influenza,physician,malaise
+influenza,physician,debilitation
+influenza,physician,symptom aggravating factors
+influenza,physician,chill
+influenza,physician,scleral icterus
+influenza,physician,nasal flaring
+influenza,physician,dysuria
+influenza,physician,lip smacking
+influenza,physician,headache
+influenza,physician,sneeze
+influenza,physician,snore
+influenza,physician,green sputum
+influenza,physician,shortness of breath
+influenza,physician,distress respiratory
+influenza,physician,blackout
+influenza,physician,extreme exhaustion
+thrombus,hematologist,hypokinesia
+thrombus,hematologist,anorexia
+thrombus,hematologist,hypertonicity
+thrombus,hematologist,shortness of breath
+thrombus,hematologist,hypoalbuminemia
+thrombus,hematologist,pruritus
+thrombus,hematologist,sore to touch
+thrombus,hematologist,hemodynamically stable
+thrombus,hematologist,facial paresis
+thrombus,hematologist,vomiting
+thrombus,hematologist,stool color yellow
+cholecystitis,gastroenterologist,moan
+cholecystitis,gastroenterologist,nausea
+cholecystitis,gastroenterologist,pain abdominal
+cholecystitis,gastroenterologist,Murphy's sign
+cholecystitis,gastroenterologist,flatulence
+cholecystitis,gastroenterologist,colic abdominal
+cholecystitis,gastroenterologist,pain
+cholecystitis,gastroenterologist,ascites
+cholecystitis,gastroenterologist,diarrhea
+cholecystitis,gastroenterologist,qt interval prolonged
+cholecystitis,gastroenterologist,cardiovascular finding cardiovascular event
+cholecystitis,gastroenterologist,groggy
+cholecystitis,gastroenterologist,sinus rhythm
+cholecystitis,gastroenterologist,gasping for breath
+cholecystitis,gastroenterologist,constipation
+cholecystitis,gastroenterologist,feces in rectum
+cholecystitis,gastroenterologist,abnormally hard consistency
+hernia hiatal,surgeon,pain abdominal
+hernia hiatal,surgeon,fatigability
+hernia hiatal,surgeon,prodrome
+hernia hiatal,surgeon,vomiting
+hernia hiatal,surgeon,nausea
+hernia hiatal,surgeon,myalgia
+hernia hiatal,surgeon,hyponatremia
+hernia hiatal,surgeon,sore to touch
+hernia hiatal,surgeon,general discomfort
+hernia hiatal,surgeon,dyspnea on exertion
+hernia hiatal,surgeon,asterixis
+hernia hiatal,surgeon,guaiac positive
+hernia hiatal,surgeon,numbness of hand
+hernia hiatal,surgeon,headache
+hernia hiatal,surgeon,photophobia
+migraine disorders,neurologist,ambidexterity
+migraine disorders,neurologist,vomiting
+migraine disorders,neurologist,dizziness
+migraine disorders,neurologist,numbness
+migraine disorders,neurologist,nausea
+migraine disorders,neurologist,fever
+migraine disorders,neurologist,splenomegaly
+pancytopenia,hematologist,hypoproteinemia
+pancytopenia,hematologist,fatigue
+pancytopenia,hematologist,haemorrhage
+pancytopenia,hematologist,fatigability
+pancytopenia,hematologist,cushingoid facies cushingoid habitus
+pancytopenia,hematologist,stool color yellow
+pancytopenia,hematologist,colic abdominal
+cholelithiasis biliary calculus,gastroenterologist,vomiting
+cholelithiasis biliary calculus,gastroenterologist,nausea
+cholelithiasis biliary calculus,gastroenterologist,pain abdominal
+cholelithiasis biliary calculus,gastroenterologist,pain
+cholelithiasis biliary calculus,gastroenterologist,cushingoid facies cushingoid habitus
+cholelithiasis biliary calculus,gastroenterologist,ascites
+cholelithiasis biliary calculus,gastroenterologist,thicken
+cholelithiasis biliary calculus,gastroenterologist,sore to touch
+cholelithiasis biliary calculus,gastroenterologist,diarrhea
+cholelithiasis biliary calculus,gastroenterologist,apyrexial
+cholelithiasis biliary calculus,gastroenterologist,palpitation
+tachycardia sinus,cardiologist,left atrial hypertrophy
+tachycardia sinus,cardiologist,sweat sweating increased
+tachycardia sinus,cardiologist,alcohol binge episode
+tachycardia sinus,cardiologist,pressure chest
+tachycardia sinus,cardiologist,scar tissue
+tachycardia sinus,cardiologist,cardiovascular finding cardiovascular event
+tachycardia sinus,cardiologist,orthostasis
+tachycardia sinus,cardiologist,shortness of breath
+tachycardia sinus,cardiologist,t wave inverted
+tachycardia sinus,cardiologist,vomiting
+tachycardia sinus,cardiologist,pain abdominal
+ileus,gastroenterologist,abscess bacterial
+ileus,gastroenterologist,abdomen acute
+ileus,gastroenterologist,air fluid level
+ileus,gastroenterologist,catching breath
+ileus,gastroenterologist,abdominal tenderness
+ileus,gastroenterologist,nausea
+ileus,gastroenterologist,sore to touch
+ileus,gastroenterologist,flatulence
+ileus,gastroenterologist,diarrhea
+ileus,gastroenterologist,mass of body structure
+ileus,gastroenterologist,apyrexial
+ileus,gastroenterologist,constipation
+ileus,gastroenterologist,thicken
+ileus,gastroenterologist,gravida 0
+ileus,gastroenterologist,pain abdominal
+delusion,psychiatrist,loose associations
+delusion,psychiatrist,giddy mood
+delusion,psychiatrist,feeling hopeless
+delusion,psychiatrist,agitation
+delusion,psychiatrist,hallucinations auditory
+delusion,psychiatrist,irritable mood
+delusion,psychiatrist,sleeplessness
+delusion,psychiatrist,neologism
+delusion,psychiatrist,homicidal thoughts
+delusion,psychiatrist,disturbed family
+delusion,psychiatrist,worry
+delusion,psychiatrist,decompensation
+delusion,psychiatrist,verbally abusive behavior
+delusion,psychiatrist,catatonia
+delusion,psychiatrist,suicidal
+delusion,psychiatrist,terrify
+delusion,psychiatrist,blackout
+delusion,psychiatrist,weepiness
+delusion,psychiatrist,impaired cognition
+delusion,psychiatrist,irritable mood
+delusion,psychiatrist,agitation
+decubitus ulcer,gastroenterologist,systolic murmur
+decubitus ulcer,gastroenterologist,frail
+decubitus ulcer,gastroenterologist,fever

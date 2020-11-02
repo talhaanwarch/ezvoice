@@ -34,7 +34,7 @@ def home(request):
 			
 				symp=symptom_finder.symp_finder(tex)
 				print('symptoms are ', symp)
-				return render(request,'search.html',{'text':tex,'doctor':symp})
+				return render(request,'search.html',{'text':tex,'doctor_disease':zip(list(symp['doctor']),list(symp['Disease']))})
 				#messages.success(request,'voice saved')
 			else:
 

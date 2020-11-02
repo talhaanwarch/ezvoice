@@ -3,11 +3,9 @@
 {% block content %}
 <h2>Display result</h2>
 {{ text }} <br>
-You may have following disease <br>
-{% for t in doctor %}
-{{ t }} <br>
+{% for doc,dis in doctor_disease %}
+Your symptoms shows that you are suffering from  <b>{{ dis }}</b> and you need to consult a <b>{{ doc }}</b>   <br>
 {% endfor %}
-
 <br>
 <form action="/">
     <input type="submit" value="Go back" />

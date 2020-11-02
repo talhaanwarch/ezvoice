@@ -1,7 +1,9 @@
 import pandas as pd
 
 
+
 def symp_finder(text):
+	#gist_file = open("sub_app/py_templates/stopwords.txt", "r")
 	gist_file = open("sub_app/py_templates/stopwords.txt", "r")
 	try:
 	    content = gist_file.read()
@@ -10,9 +12,12 @@ def symp_finder(text):
 	    gist_file.close()
 
 	stopwords=[i.replace('"',"").strip() for i in stopwords]
-	df2=pd.read_csv('sub_app/py_templates/symptoms_disease.csv')
+	#df2=pd.read_csv('sub_app/py_templates/final.csv')
 
-	df2=df2.groupby('Disease')['Symptoms'].apply(list).reset_index()
+	df2=pd.read_csv('sub_app/py_templates/final.csv')
+	df2['doctor']=df2['doctor'].str.title()
+	df2['Disease']=df2['Disease'].str.title()
+	df2=df2.groupby(['Disease','doctor'])['Symptoms'].apply(list).reset_index()
 	df2['Symptoms']=df2['Symptoms'].apply(lambda x:[str(i).split() for i in x] )
 	df2['Symptoms']=df2['Symptoms'].apply(lambda x:[item for sublist in x for item in sublist])
 
@@ -32,4 +37,4 @@ def symp_finder(text):
 	        print(i)
 	        break
 	        
-	return list(df3.loc[0:i-1,['Disease']]['Disease']) 
+	return df3.iloc[0:i-1,0:2]
