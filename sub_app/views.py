@@ -34,8 +34,11 @@ def home(request):
 			
 				symp=symptom_finder.symp_finder(tex)
 				#print('symptoms are ', symp)
-				return render(request,'search.html',{'text':tex,'doctor_disease':zip(list(symp['doctor']),list(symp['Disease']))})
+				if symp is not None:
+					return render(request,'search.html',{'text':tex,'doctor_disease':zip(list(symp['doctor']),list(symp['Disease']))})
 				#messages.success(request,'voice saved')
+				else:
+					return render(request,'search.html',{'text':'Please speak again'})
 			else:
 
 				return render(request,'search.html',{'text':'Please speak again'})

@@ -32,8 +32,11 @@ def symp_finder(text):
 
 	df3['diff']=df3['match_len'].diff()
 	df3.reset_index(drop=True,inplace=True)
-	for i in range(len(df3)):
-	    if df3['diff'][i]<0:
-	        break
-	        
-	return df3.iloc[0:i-1,0:2]
+	try:
+		for i in range(len(df3)):
+		    if df3['diff'][i]<0:
+		        break
+		        
+		return df3.iloc[0:i-1,0:2]
+	except:
+		return None
