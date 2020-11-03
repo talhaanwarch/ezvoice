@@ -33,7 +33,7 @@ def home(request):
 				insert = Text.objects.create(texts=tex,filename=filename,upload_text=Upload.objects.last())
 			
 				symp=symptom_finder.symp_finder(tex)
-				print('symptoms are ', symp)
+				#print('symptoms are ', symp)
 				return render(request,'search.html',{'text':tex,'doctor_disease':zip(list(symp['doctor']),list(symp['Disease']))})
 				#messages.success(request,'voice saved')
 			else:

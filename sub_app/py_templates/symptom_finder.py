@@ -34,7 +34,6 @@ def symp_finder(text):
 	df3.reset_index(drop=True,inplace=True)
 	for i in range(len(df3)):
 	    if df3['diff'][i]<0:
-	        print(i)
 	        break
 	        
 	return df3.iloc[0:i-1,0:2]
