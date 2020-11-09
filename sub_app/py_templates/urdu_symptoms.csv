@@ -1,0 +1,22 @@
+﻿doctor,ur_symp,roman_symp,en_symp
+Cardiologists,"دل، دھڑکن، سینہ، چھاتی، سانس ","dil, dharkan, seenah, chhaati,","heart, chest, cardiac, valve"
+Dermatologist / Surgical Specialist,"جلد، الرجی، سکن، چہرہ، دانے، ایکنی","jald, allergy, skin, chehra, danay, acne","skin, allergy, dermatologist"
+Family/ General / Medical Physician,سب,any,any
+Gastroenterologist,"گیس، پیٹ، درد، تکلیف","gas, pait, pet","gas, abdomen, intestine"
+Nephrologist,"گردے، پیشاب، ","gurday, pishaab ,","kidney, dialysis"
+Gynecologist,"پیدایش، حمل","pidaaish, hamal",pregnant
+Oncologists,"کینسر، سرطان","cancer, sartaan","cancer, lumps "
+Eye Specialist,"آنکھ، آنکھوں","aankh, aankhon","eyes,"
+Pediatrician / Child specialist,"بچہ، بچے","bacha, bachay","baby, kid"
+Pulmonologist,"سانس، پھیپڑوں، ","saans, phephray","lungs, breath"
+Urologist,پیشاب,pishaab,urine
+Dentist,"دانت، مسوڑھے، منہ ","daant, masorhay, mun,danto ","teeth, tooth, mouth, gum"
+ENT Specialist,"کان، ناک، گلا","kaan, naak, gala","ear, nose, nostril"
+Psychiatrist,"دورے، ڈیپریشن، پریشانی، ","doray, deeprasion, pareshani, tension","stress, deeprasion, anxiety, tension"
+Nutritionist,خوراک ,khoraak,"food, nutrition"
+Orthopedist,ہڈیوں,"hadion,haddiyon ","kness, bones, body pain, pain in body"
+Neurologist,"اعصابی، دماغی","aasabi, dimaghi","nervous, tension, brain"
+Rheumatology,"جوڑوں، گھٹنے، ہڈیوں","joron, ghatney, hadion","legs, knee, orthopedic, "
+Endocrinology and Diabetes,"شوگر، ڈیابیٹیس","sugar, diabetes","sugar, diabetes"
+Audiologist,"سننے میں دشواری، چکر ","suneney mein dushwari, chakkar, samaat","difficulty in listening,"
+Pathologist,"خون ، بلڈ ، ٹیسٹ، رپورٹ","khoon, blood, test, report","blood, test, report"

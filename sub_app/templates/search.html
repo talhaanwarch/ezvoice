@@ -3,28 +3,13 @@
 {% block content %}
 <h2>Display result</h2>
 {{ text }} <br>
-{% for doc,dis in doctor_disease %}
-Your symptoms shows that you are suffering from  <b>{{ dis }}</b> and you need to consult a <b>{{ doc }}</b>   <br>
-{% endfor %}
-<br>
+
+{{ doctor_disease }}
+
+
+
 <form action="/">
     <input type="submit" value="Go back" />
 </form>
-<!-- <h2> Search Result</h2>
-<form method='POST' action ="{% url 'search' %}">
-{% csrf_token %}
-  <label for="search">Search:</label><br>
-  <input type="text" id="search" name="Search"><br>
-  <button type="submit" value='Submit'>Submit</button>	
-</form>
- -->
-<!-- Name   |   Email 
-<br>
-{% for upload in query_key %} 
-{% if upload %}
-{{ upload.upload_text.name }} &nbsp &nbsp &nbsp &nbsp   &nbsp &nbsp {{upload.upload_text.email}}  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp   {{ upload.texts }}
-{% endif %}
-<br>
-{% endfor %}
- -->
+
 {% endblock %}

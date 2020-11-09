@@ -1,14 +1,16 @@
-from django.shortcuts import render
+from django.shortcuts import render,redirect
 from .models import *
 import base64
 from django.http import HttpResponse,HttpResponseRedirect
-from .py_templates import sr,symptom_finder
+from .py_templates import sr,symptom_finder_ur
 from pydub import AudioSegment
 from django.contrib import messages
 # Create your views here.
 from .forms import uploadForm
 import datetime
+import datetime
 
+dt = datetime.datetime.now().strftime("%Y-%m-%d")
 def text(lang):
 	#AudioSegment.converter = r"C:/ffmpeg/bin/ffmpeg.exe"
 	#AudioSegment.ffprobe   = r"C:/ffmpeg/bin/ffprobe.exe"
@@ -25,20 +27,28 @@ def home(request):
 	if request.method == 'POST':
 		form = uploadForm(request.POST)
 		lang=request.POST['language']
+		print('lang is', lang)
 		if form.is_valid():
 			tex,filename=text(lang)
 			if tex is not None:
 				form.save()
 			
 				insert = Text.objects.create(texts=tex,filename=filename,upload_text=Upload.objects.last())
-			
-				symp=symptom_finder.symp_finder(tex)
-				#print('symptoms are ', symp)
+				tex=tex.lower()
+				symp=symptom_finder_ur.symp_finder(tex,lang)
+				print('sympts are',symp)
 				if symp is not None:
-					return render(request,'search.html',{'text':tex,'doctor_disease':zip(list(symp['doctor']),list(symp['Disease']))})
+					#symp=symp.replace(" ",'+')
+					print('symptoms are ', symp)
+					#for umls db
+					#return render(request,'search.html',{'text':tex,'doctor_disease':zip(list(symp['doctor']),list(symp['Disease']))})
+					#symp_link='https://ezshifa.com/list.php?speciality={}&typeselect=specility&token=cowciiun5sizsyyzl30fg&idtext={}&visty_type=online&date={}'.format(symp,symp,dt)
+					return render(request,'search.html',{'text':tex,'doctor_disease':symp})
+					#return redirect(symp_link)
 				#messages.success(request,'voice saved')
 				else:
-					return render(request,'search.html',{'text':'Please speak again'})
+					#return redirect('https://ezshifa.com/list.php?speciality=Family%2F+General+%2F+Medical+Physician&typeselect=specility&idselect=&idtext=Family%2F+General+%2F+Medical+Physician&visty_type=online&date='.format(dt))
+					return render(request,'search.html',{'text':tex,'doctor_disease':'Family/ General / Medical Physician'})
 			else:
 
 				return render(request,'search.html',{'text':'Please speak again'})
@@ -82,3 +92,5 @@ def upload_audio(request):
 		f.close()
 	return HttpResponse('audio received')
 	
+
+#
