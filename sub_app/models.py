@@ -3,7 +3,7 @@ from django.db import models
 # Create your models here.
 
 MY_CHOICES = (
-        ('en-IN', 'Urdu'),
+        ('ur-PK', 'Urdu'),
         ('en-US', 'English'),
         
     )

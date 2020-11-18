@@ -3,9 +3,9 @@ import Stemmer
 stemmer = Stemmer.Stemmer('english')
 def symp_finder(text,lang):
 	df=pd.read_csv('sub_app/py_templates/urdu_symptoms.csv')
-	df.drop('ur_symp',axis=1,inplace=True)
-	if lang=='en-US':#english
-		df.drop(['roman_symp'],axis=1,inplace=True)
+	df.drop('roman_symp',axis=1,inplace=True)
+	if lang=='en-US':#english 
+		df.drop(['ur_symp'],axis=1,inplace=True)
 
 		df.columns=['doctor','symp']
 		df.symp=df.symp.str.split(',')
@@ -13,11 +13,11 @@ def symp_finder(text,lang):
 		text=text.lower().split()
 		text=[stemmer.stemWord(i) for i in text]
 		print('english',lang,text)
-	elif lang=='en-IN':#urdu
+	elif lang=='ur-PK':#urdu
 		df.drop(['en_symp'],axis=1,inplace=True)
 		df.columns=['doctor','symp']
-		text=text.lower().split()
-		df.symp=df.symp.str.split(',')
+		text=text.split()
+		df.symp=df.symp.str.split('،')
 		print('urdu',lang,text)
 	try:
 		
