@@ -4,7 +4,7 @@ def takeCommand(file,lang):
     r = sr.Recognizer()
     harvard = sr.AudioFile(file)
     with harvard as source:
-        r.adjust_for_ambient_noise(source, duration=0.5)
+        #r.adjust_for_ambient_noise(source, duration=0.5)
         audio = r.record(source)
     try:
     	text=r.recognize_google(audio,language=lang)
