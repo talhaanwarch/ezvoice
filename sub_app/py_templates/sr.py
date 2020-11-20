@@ -6,9 +6,11 @@ def takeCommand(file,lang):
     with harvard as source:
         #r.adjust_for_ambient_noise(source, duration=0.5)
         audio = r.record(source)
+        print(audio)
     try:
-    	text=r.recognize_google(audio,language=lang)
-    	return text
+        text=r.recognize_google(audio,language=lang)
+        print(text)
+        return text
     except:
     	return None
     
