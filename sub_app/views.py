@@ -10,7 +10,7 @@ from .forms import uploadForm
 import datetime
 import datetime
 import os
-
+import boto3
 dt = datetime.datetime.now().strftime("%Y-%m-%d")
 def text(lang):
 	#AudioSegment.converter = r"C:/ffmpeg/bin/ffmpeg.exe"
@@ -20,6 +20,10 @@ def text(lang):
 	filename = "_".join([lang, suffix]) 
 	filename='{}.wav'.format(filename)
 	sound.export(filename, format="wav")
+	ags_west = boto3.setup_default_session(region_name='us-east-2')
+	s3 = boto3.resource('s3', aws_access_key_id='AKIA2XGCNGLE2KAWAKNK', aws_secret_access_key='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')
+	s3.meta.client.upload_file(filename,'ezshifa1',filename)
+	
 	tex=sr.takeCommand(filename,lang)
 	os.remove('file.oga')
 	return tex,filename
