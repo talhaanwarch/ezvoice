@@ -33,7 +33,6 @@ def home(request):
 	if request.method == 'POST':
 		form = uploadForm(request.POST)
 		lang=request.POST['language']
-		print('lang is', lang)
 		if form.is_valid():
 			tex,filename=text(lang)
 			if tex is not None:
@@ -45,7 +44,6 @@ def home(request):
 				print('sympts are',symp)
 				if symp is not None:
 					symp=symp.replace(" ",'+')
-					print('symptoms are ', symp)
 					#for umls db
 					#return render(request,'search.html',{'text':tex,'doctor_disease':zip(list(symp['doctor']),list(symp['Disease']))})
 					#symp_link='https://ezshifa.com/list.php?speciality={}&typeselect=specility&idtext={}&visty_type=online&date={}'.format(symp,symp,dt)
