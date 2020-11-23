@@ -46,13 +46,13 @@ def home(request):
 					symp=symp.replace(" ",'+')
 					#for umls db
 					#return render(request,'search.html',{'text':tex,'doctor_disease':zip(list(symp['doctor']),list(symp['Disease']))})
-					#symp_link='https://ezshifa.com/list.php?speciality={}&typeselect=specility&idtext={}&visty_type=online&date={}'.format(symp,symp,dt)
-					return render(request,'search.html',{'text':tex,'doctor_disease':symp})
-					#return redirect(symp_link)
+					symp_link='https://ezshifa.com/list.php?speciality={}&typeselect=specility&idtext={}&visty_type=online&date={}'.format(symp,symp,dt)
+					#return render(request,'search.html',{'text':tex,'doctor_disease':symp})
+					return redirect(symp_link)
 				#messages.success(request,'voice saved')
 				else:
-					#return redirect('https://ezshifa.com/list.php?speciality=Family%2F+General+%2F+Medical+Physician&typeselect=specility&idselect=&idtext=Family%2F+General+%2F+Medical+Physician&visty_type=online&date='.format(dt))
-					return render(request,'search.html',{'text':tex,'doctor_disease':'Family/ General / Medical Physician'})
+					return redirect('https://ezshifa.com/list.php?speciality=Family%2F+General+%2F+Medical+Physician&typeselect=specility&idselect=&idtext=Family%2F+General+%2F+Medical+Physician&visty_type=online&date='.format(dt))
+					#return render(request,'search.html',{'text':tex,'doctor_disease':'Family/ General / Medical Physician'})
 			else:
 
 				return render(request,'search.html',{'text':'Please speak again'})

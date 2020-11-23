@@ -13,7 +13,7 @@ def symp_finder(text,lang):
 		text=text.lower().split()
 		text=[stemmer.stemWord(i) for i in text]
 		print('english',lang,text)
-	elif lang=='en-IN':#urdu
+	elif lang=='ur-PK':#urdu
 		df.drop(['en_symp'],axis=1,inplace=True)
 		df.columns=['doctor','symp']
 		text=text.split()
