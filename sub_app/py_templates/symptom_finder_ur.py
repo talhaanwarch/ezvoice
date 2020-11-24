@@ -4,7 +4,7 @@ stemmer = Stemmer.Stemmer('english')
 def symp_finder(text,lang):
 	df=pd.read_csv('sub_app/py_templates/urdu_symptoms.csv')
 	df.drop('roman_symp',axis=1,inplace=True)
-	if lang=='en-US':#english 
+	if lang=='en-IN':#english 
 		df.drop(['ur_symp'],axis=1,inplace=True)
 
 		df.columns=['doctor','symp']

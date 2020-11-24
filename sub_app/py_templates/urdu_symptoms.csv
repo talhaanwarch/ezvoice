@@ -2,7 +2,7 @@
 Cardiologists,"دل، دھڑکن، سینہ، چھاتی، سانس،سینے،دھڑک ","dil, dharkan, seenah, chhaati,","heart, chest, cardiac, valve"
 Dermatologist / Surgical Specialist,"جلد، الرجی، سکن، چہرہ، دانے، ایکنی","jald, allergy, skin, chehra, danay, acne","skin, allergy, dermatologist"
 Family/ General / Medical Physician,سب,any,any
-Gastroenterologist,"گیس، پیٹ،  تکلیف","gas, pait, pet","gas, abdomen, intestine"
+Gastroenterologist,"گیس، پیٹ","gas, pait, pet","gas, abdomen, intestine"
 Nephrologist,"گردے، پیشاب، ","gurday, pishaab ,","kidney, dialysis"
 Gynecologist,"پیدایش، حمل","pidaaish, hamal",pregnant
 Oncologists,"کینسر، سرطان","cancer, sartaan","cancer, lumps "
@@ -12,11 +12,11 @@ Pulmonologist,"سانس، پھیپڑوں، ","saans, phephray","lungs, breath"
 Urologist,پیشاب,pishaab,urine
 Dentist,"دانت، مسوڑھے، منہ ،دانتوں، مسوڑھوں","daant, masorhay, mun,danto ","teeth, tooth, mouth, gum"
 ENT Specialist,"کان، ناک، گلا،گلے","kaan, naak, gala","ear, nose, nostril"
-Psychiatrist,"دورے، ڈیپریشن، پریشانی، سٹریس، ٹینشن","doray, deeprasion, pareshani, tension","stress, deeprasion, anxiety, tension"
+Psychiatrist,"دورے، ڈیپریشن، پریشانی، سٹریس، ٹینشن","doray, deeprasion, pareshani, tension","stress, depress, anxiety, tension"
 Nutritionist,"خوراک،فوڈ ",khoraak,"food, nutrition"
-Orthopedist,"ہڈیوں،ہڈی، گھٹنے، جسم","hadion,haddiyon ","kness, bones, body pain, pain in body"
+Orthopedist,"ہڈیوں،ہڈی، گھٹنے، جسم،گھٹنوں","hadion,haddiyon ","kness, bones, body pain, pain in body"
 Neurologist,"اعصابی، دماغی","aasabi, dimaghi","nervous, tension, brain"
 Rheumatology,"جوڑوں، گھٹنے، ہڈیوں","joron, ghatney, hadion","legs, knee, orthopedic, "
 Endocrinology and Diabetes,"شوگر، ڈیابیٹیس","sugar, diabetes","sugar, diabetes"
-Audiologist,"سننے میں دشواری، چکر ","suneney mein dushwari, chakkar, samaat","difficulty in listening,"
+Audiologist,"سننے میں دشواری، چکر ،سنای","suneney mein dushwari, chakkar, samaat","difficulty in listening,"
 Pathologist,"خون ، بلڈ ، ٹیسٹ، رپورٹ","khoon, blood, test, report","blood, test, report"

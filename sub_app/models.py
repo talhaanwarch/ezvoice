@@ -4,7 +4,7 @@ from django.db import models
 
 MY_CHOICES = (
         ('ur-PK', 'Urdu'),#ur-PK
-        ('en-US', 'English'),
+        ('en-IN', 'English'),
         
     )
 
